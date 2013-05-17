@@ -7,10 +7,10 @@ Bash function for extract: .zip, .rar, .bz2, .gz, .tar, .tbz2, .tgz, .Z, .7z, .x
 How to install (Mac OS X)
 -------------------------
 ## Mac OS X
-    Copy&Paste function into file `~/.bash_profile`
+Copy&Paste function into file `~/.bash_profile`
 
 ## Ubuntu / Linux / *nix
-    Copy&Paste function into file `~/.bashrc`
+Copy&Paste function into file `~/.bashrc`
 
 
 How it use
