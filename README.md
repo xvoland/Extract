@@ -21,7 +21,7 @@ How it use
 result:
 
     $ ls archive_name
-        ... extracted files ...
+        __... extracted files ...__
 
 License
 -------
