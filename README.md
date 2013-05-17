@@ -18,6 +18,11 @@ How it use
 ----------
     $ extract archive_name.ext
 
+result:
+
+    $ ls archive_name
+        ... extracted files ...
+
 License
 -------
 Author [Vitalii Tereshchuk](http://dotoca.net). &copy; 2013, MIT license.
