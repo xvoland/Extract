@@ -20,4 +20,4 @@ How it use
 
 License
 -------
-Author [Vitalii Tereshchuk](http://dotoca.net). &copy; MIT license.
+Author [Vitalii Tereshchuk](http://dotoca.net). &copy; 2013, MIT license.
