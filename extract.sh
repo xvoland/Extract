@@ -24,7 +24,7 @@ function extract {
           *.7z)        7z x ../$1        ;;
           *.xz)        unxz ../$1        ;;
           *.exe)       cabextract ../$1  ;;
-          *)           echo "\'$1': unknown archive method" ;;
+          *)           echo "'$1' - unknown archive method" ;;
         esac
     else
         echo "\'$1' file does not exist"
