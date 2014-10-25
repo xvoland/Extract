@@ -3,9 +3,9 @@
 Command/function `extract` in your console
 =================================
 
-What’s a good way to extract .zip, .rar, .bz2, .gz, .tar, .tbz2, .tgz, .Z, .7z, .xz, .exe, .tar.bz2, .tar.gz, .tar.xz files on the Mac or Linux?
+What’s a good way to extract: .zip, .rar, .bz2, .gz, .tar, .tbz2, .tgz, .Z, .7z, .xz, .exe, .tar.bz2, .tar.gz, .tar.xz files on the Mac or Linux?
 
-The goal is to make `extract` able to extract anything you give it. The `extract` uses the free unpackers to support many older, obscure formats like this: .zip, .rar, .bz2, .gz, .tar, .tbz2, .tgz, .Z, .7z, .xz, .exe, .tar.bz2, .tar.gz, .tar.xz
+The goal is to make `extract` able to extract anything you give it. The command `extract` uses the free unpackers to support many older, obscure formats like this: .zip, .rar, .bz2, .gz, .tar, .tbz2, .tgz, .Z, .7z, .xz, .exe, .tar.bz2, .tar.gz, .tar.xz
 
 
 How to install (Mac OS X)
@@ -22,7 +22,7 @@ How it use
 ----------
 
 Using command `extract`, in a terminal
-    $ extract <archive_filename.extention>
+    `$ extract <archive_filename.extention>`
 
 License
 -------
