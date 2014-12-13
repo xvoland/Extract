@@ -26,14 +26,9 @@ Using command `extract`, in a terminal
 
 # Donate
 
-Make a donation to support my work. 
+**Please, make a donation to support my work.**
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="VETGSS4J3F4H2">
-<input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-</form>
+<a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VETGSS4J3F4H2'><img alt='Click here to lend your support to: assertHTMLValidate for PHPUnit and make a donation at www.pledgie.com !' src='https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif' border='0' /></a>
 
 
 License
