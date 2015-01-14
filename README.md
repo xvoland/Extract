@@ -24,7 +24,7 @@ How it use
 Using command `extract`, in a terminal
     `$ extract <archive_filename.extention>`
 
-# Donate a beer
+### Donate a beer
 
 You are more than welcome to donate me some beer money :)
 
