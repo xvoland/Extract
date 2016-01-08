@@ -18,6 +18,11 @@ Copy&Paste function into file `~/.bash_profile`
 Copy&Paste function into file `~/.bashrc`
 
 
+I use hosting
+-------------
+
+My hosting <a href='https://goo.gl/3KpxQI'>here</a>
+
 How it use
 ----------
 
