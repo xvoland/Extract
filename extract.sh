@@ -20,7 +20,7 @@ function extract {
           *.tbz2)      tar xvjf ./"$1"    ;;
           *.tgz)       tar xvzf ./"$1"    ;;
           *.zip)       unzip ./"$1"       ;;
-          *.Z)         uncompress ./"$1"  ;;
+          *.z)         uncompress ./"$1"  ;;
           *.7z)        7z x ./"$1"        ;;
           *.xz)        unxz ./"$1"        ;;
           *.exe)       cabextract ./"$1"  ;;
