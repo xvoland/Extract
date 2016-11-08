@@ -5,6 +5,7 @@ function extract {
  if [ -z "$1" ]; then
     # display usage if no parameters given
     echo "Usage: extract <path/file_name>.<zip|rar|bz2|gz|tar|tbz2|tgz|Z|7z|xz|ex|tar.bz2|tar.gz|tar.xz>"
+    return 1
  else
     if [ -f "$1" ] ; then
         case "${1,,}" in
@@ -19,10 +20,14 @@ function extract {
           *.7z)        7z x ./"$1"        ;;
           *.xz)        unxz ./"$1"        ;;
           *.exe)       cabextract ./"$1"  ;;
-          *)           echo "extract: '$1' - unknown archive method" ;;
+          *)
+                       echo "extract: '$1' - unknown archive method"
+                       return 1
+                       ;;
         esac
     else
         echo "'$1' - file does not exist"
+        return 1
     fi
 fi
 }
