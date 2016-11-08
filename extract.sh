@@ -7,8 +7,7 @@ function extract {
     echo "Usage: extract <path/file_name>.<zip|rar|bz2|gz|tar|tbz2|tgz|Z|7z|xz|ex|tar.bz2|tar.gz|tar.xz>"
  else
     if [ -f "$1" ] ; then
-        local nameInLowerCase=`echo "$1" | awk '{print tolower($0)}'`
-        case "$nameInLowerCase" in
+        case "${1,,}" in
           *.tar.bz2)   tar xvjf ./"$1"    ;;
           *.tar.gz)    tar xvzf ./"$1"    ;;
           *.tar.xz)    tar xvJf ./"$1"    ;;
