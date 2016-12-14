@@ -27,9 +27,13 @@ How it use
 ----------
 
 Using command `extract`, in a terminal
-    - `$ extract <archive_filename.extention>`
 
-    - `$ extract <archive_filename_1.extention> <archive_filename_2.extention> <archive_filename_3.extention> ...`
+```
+$ extract <archive_filename.extention>
+
+$ extract <archive_filename_1.extention> <archive_filename_2.extention> <archive_filename_3.extention> ...
+```
+
 
 ### Donate a beer
 
