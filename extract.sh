@@ -11,7 +11,7 @@ function extract {
     for n in $@
     do
       if [ -f "$n" ] ; then
-          case "${n,,}" in
+          case "${n%,}" in
             *.tar.bz2|*.tar.gz|*.tar.xz|*.tbz2|*.tgz|*.txz|*.tar) 
                          tar xvf "$n"       ;;
             *.lzma)      unlzma ./"$n"      ;;
