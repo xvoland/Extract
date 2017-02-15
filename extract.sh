@@ -20,7 +20,8 @@ function extract {
             *.gz)        gunzip ./"$n"      ;;
             *.zip)       unzip ./"$n"       ;;
             *.z)         uncompress ./"$n"  ;;
-            *.7z)        7z x ./"$n"        ;;
+            *.7z|*.arj|*.cab|*.chm|*.deb|*.dmg|*.iso|*.lzh|*.msi|*.rpm|*.udf|*.wim|*.xar)
+                         7z x ./"$n"        ;;
             *.xz)        unxz ./"$n"        ;;
             *.exe)       cabextract ./"$n"  ;;
             *)
