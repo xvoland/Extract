@@ -2,7 +2,7 @@
 # function Extract for common file formats
 
 function extract {
-  if [ -z "$1"  ]; then
+  if [ -z "$1" ]; then
     # display usage if no parameters given
     echo "Usage: extract <path/file_name>.<zip|rar|bz2|gz|tar|tbz2|tgz|Z|7z|xz|ex|tar.bz2|tar.gz|tar.xz>"
     echo "       extract <path/file_name_1.ext> [path/file_name_2.ext] [path/file_name_3.ext]"
@@ -10,7 +10,7 @@ function extract {
   else
     for n in "$@"
     do
-      if [ -f "$n"  ] ; then
+      if [ -f "$n" ] ; then
         case "${n%,}" in
           *.tar.bz2|*.tar.gz|*.tar.xz|*.tbz2|*.tgz|*.txz|*.tar) 
             tar xvf "$n";;
