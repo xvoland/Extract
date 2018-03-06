@@ -1,3 +1,6 @@
+#!/bin/bash
+# function Extract for common file formats
+
 function have_prog {
     [ -x "$(command -v $1)" ]
 }
