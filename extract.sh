@@ -6,7 +6,9 @@ function have_prog {
 }
 
 function check_extractors {
- if have_prog apt-get ; then package_manager="sudo apt-get install"
+ if   have_prog apt-get ; then package_manager="sudo apt-get install"
+ elif have_prog yum     ; then package_manager="yum install"
+ elif have_prog dnf     ; then package_manager="dnf install"
  else
     echo 'No package manager found!'
     exit 2
