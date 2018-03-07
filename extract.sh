@@ -75,6 +75,7 @@ function extract {
             *.arc|*.Arc|*.ARC)         arc e ./"$n"       ;;
             *.cso|*.Cso|*.CSO)       ciso 0 ./"$n" ./"$n.iso" && \
                               extract $n.iso && \rm -f $n ;;
+            *.cpio|*.Cpio|*.CPIO)      cpio -id < ./"$n"  ;;
             *)
                          echo "extract: '$n' - unknown archive method"
                          return 1
