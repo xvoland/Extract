@@ -23,6 +23,7 @@ function extract {
                          7z x ./"$n"        ;;
             *.xz)        unxz ./"$n"        ;;
             *.exe)       cabextract ./"$n"  ;;
+            *.cpio)      cpio -id < ./"$n"  ;;
             *)
                          echo "extract: '$n' - unknown archive method"
                          return 1
