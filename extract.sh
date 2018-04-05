@@ -1,6 +1,9 @@
 #!/bin/bash
 # function Extract for common file formats
 
+SAVEIFS=$IFS
+IFS=$(echo -en "\n\b")
+
 function extract {
  if [ -z "$1" ]; then
     # display usage if no parameters given
@@ -36,3 +39,5 @@ function extract {
     done
 fi
 }
+
+IFS=$SAVEIFS
