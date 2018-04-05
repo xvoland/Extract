@@ -11,7 +11,7 @@ The goal is to make `extract` able to extract anything you give it. The command 
 How to install (Mac OS X)
 -------------------------
 
-### Mac OS X
+### macOS / OSX / Mac OS X
 Copy&Paste function into file `~/.bash_profile`
 
 ### Ubuntu / *nix
