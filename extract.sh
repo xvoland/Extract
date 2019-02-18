@@ -54,3 +54,7 @@ function extract {
 
   return "${EXIT_CODE}"
 }
+
+if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then
+  extract "$@"
+fi
