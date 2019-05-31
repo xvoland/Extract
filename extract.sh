@@ -2,7 +2,7 @@
 # function Extract for common file formats
 
 SAVEIFS=$IFS
-IFS=$(echo -en "\n\b")
+IFS="$(printf '\n\t')"
 
 function extract {
  if [ -z "$1" ]; then
