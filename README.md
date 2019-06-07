@@ -35,7 +35,10 @@ $ extract <archive_filename_1.extention> <archive_filename_2.extention> <archive
 ```
 
 
-### Donate a beer
+### Donation
+
+Donate any amount for my projects <a href='https://paypal.me/xvoland'>https://paypal.me/xvoland</a>
+
 
 You are more than welcome to donate me some beer money :)
 
