@@ -7,7 +7,7 @@ IFS="$(printf '\n\t')"
 function extract {
  if [ -z "$1" ]; then
     # display usage if no parameters given
-    echo "Usage: extract <path/file_name>.<zip|rar|bz2|gz|tar|tbz2|tgz|Z|7z|xz|ex|tar.bz2|tar.gz|tar.xz>"
+    echo "Usage: extract <path/file_name>.<zip rar bz2 gz tar tbz2 tgz Z 7z xz ex tar.bz2 tar.gz tar.xz>"
     echo "       extract <path/file_name_1.ext> [path/file_name_2.ext] [path/file_name_3.ext]"
     return 1
   fi
@@ -15,7 +15,7 @@ function extract {
   for n in "$@"
   do
     if [ ! -f "$n" ] ; then
-        echo "'$n' - file does not exist"
+        echo "'$n' - file does not exist, aborting"
         return 2
     fi
   done
@@ -38,7 +38,7 @@ function extract {
       *.cpio)      cpio -id < ./"$n"  ;;
       *.cba|*.ace)      unace x ./"$n"      ;;
       *)
-                   echo "extract: '$n' - unknown archive method"
+                   echo "\e[31mextract: '$n' - unknown archive extraction method\e[0m"
                    return 3
                    ;;
     esac
