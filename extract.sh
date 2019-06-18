@@ -3,6 +3,8 @@
 
 SAVEIFS=$IFS
 IFS="$(printf '\n\t')"
+local ABORT=
+
 
 function extract {
  if [ -z "$1" ]; then
@@ -16,9 +18,11 @@ function extract {
   do
     if [ ! -f "$n" ] ; then
         echo "'$n' - file does not exist, aborting"
-        return 2
+        ABORT=yes
     fi
   done
+
+  [ $ABORT ] && return 2
 
   for n in "$@"
   do
