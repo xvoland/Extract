@@ -1,10 +1,10 @@
-#!/bin/bash
+#!/bin/sh
 # function Extract for common file formats
 
 SAVEIFS=$IFS
 IFS="$(printf '\n\t')"
 
-function extract {
+extract() {
  if [ -z "$1" ]; then
     # display usage if no parameters given
     echo "Usage: extract <path/file_name>.<zip|rar|bz2|gz|tar|tbz2|tgz|Z|7z|xz|ex|tar.bz2|tar.gz|tar.xz>"
@@ -31,7 +31,7 @@ function extract {
             *.zpaq)      zpaq x ./"$n"      ;;
             *.arc)         arc e ./"$n"       ;;
             *.cso)       ciso 0 ./"$n" ./"$n.iso" && \
-                              extract $n.iso && \rm -f $n ;;
+                              extract "$n.iso" && \rm -f "$n" ;;
             *)
                          echo "extract: '$n' - unknown archive method"
                          return 1
