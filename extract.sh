@@ -3,6 +3,7 @@
 
 function extract {
   local EXIT_CODE=0
+  local TMPDIR=
 
   if [ -z "$1" ]; then
     # display usage if no parameters given
@@ -19,6 +20,8 @@ function extract {
   fi
 
   for n ; do
+    TMPDIR=
+
     if [ ! -f "$n" ] ; then
       echo "'$n' - file does not exist" >&2
       EXIT_CODE="$((EXIT_CODE + 1))"
@@ -34,6 +37,22 @@ function extract {
       *.gz)                   gunzip ./"$n"      ;;
       *.cbz|*.epub|*.zip)     unzip ./"$n"       ;;
       *.z)                    uncompress ./"$n"  ;;
+      # ar is better for *.deb files
+      *.deb)
+        # ar extracts "here", and debfiles have
+        # multiple and similarly-named files
+        TMPDIR="$(basename "$n")"
+        (
+          set -Eeuo pipefail
+          mkdir "${TMPDIR}"
+          cd "${TMPDIR}"
+          ar vx ../"$n"
+        )
+        # shellcheck disable=SC2181
+        if [ "$?" -ne 0 ] ; then
+          echo "Failed to extract '$n' in '$(realpath "${TMPDIR}")'" >&2
+        fi
+      ;;
       *.7z|*.arj|*.cab|*.cb7|*.chm|*.deb|*.dmg|*.iso|*.lzh|*.msi|*.pkg|*.rpm|*.udf|*.wim|*.xar)
                               7z x ./"$n"        ;;
       *.xz)                   unxz ./"$n"        ;;
