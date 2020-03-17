@@ -4,6 +4,8 @@
 function extract {
   local EXIT_CODE=0
   local TMPDIR=
+  local VERBOSE=1
+  local -a VERBOSE_FLAG
 
   if [ -z "$1" ]; then
     # display usage if no parameters given
@@ -20,25 +22,40 @@ function extract {
   fi
 
   for n ; do
+    VERBOSE_FLAG=()
     TMPDIR=
 
+    if grep -ie '-v' <<< "$n" ; then
+      VERBOSE=0
+      continue
+    fi
     if [ ! -f "$n" ] ; then
       echo "'$n' - file does not exist" >&2
       EXIT_CODE="$((EXIT_CODE + 1))"
       continue
     fi
+    if [ "${VERBOSE}" -eq 1 ] ; then
+      echo "===> Extracting: $n <===" >&2
+    fi
 
     case "${n%,}" in
       *.cbt|*.tar.bz2|*.tar.gz|*.tar.xz|*.tbz2|*.tgz|*.txz|*.tar)
-                              tar xvf "$n"       ;;
+                              test "${VERBOSE}" -eq 0 && VERBOSE_FLAG=(v)
+                              tar "${VERBOSE_FLAG[*]}"xf "$n"       ;;
       *.lzma)                 unlzma ./"$n"      ;;
       *.bz2)                  bunzip2 ./"$n"     ;;
       *.cbr|*.rar)            unrar x -ad ./"$n" ;;
       *.gz)                   gunzip ./"$n"      ;;
-      *.cbz|*.epub|*.zip)     unzip ./"$n"       ;;
+      *.cbz|*.epub|*.zip)
+        # We test quiet instead
+        test "${VERBOSE}" -eq 1 && VERBOSE_FLAG=(-q)
+        unzip "${VERBOSE_FLAG[@]}" ./"$n"
+      ;;
       *.z)                    uncompress ./"$n"  ;;
       # ar is better for *.deb files
       *.deb)
+        test "${VERBOSE}" -eq 0 && VERBOSE_FLAG=(v)
+
         # ar extracts "here", and debfiles have
         # multiple and similarly-named files
         TMPDIR="$(basename "$n")"
@@ -46,7 +63,7 @@ function extract {
           set -Eeuo pipefail
           mkdir "${TMPDIR}"
           cd "${TMPDIR}"
-          ar vx ../"$n"
+          ar "${VERBOSE_FLAG[*]}"x ../"$n"
         )
         # shellcheck disable=SC2181
         if [ "$?" -ne 0 ] ; then
