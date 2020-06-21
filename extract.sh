@@ -5,7 +5,9 @@ function extract {
   local EXIT_CODE=0
   local TMPDIR=
   local VERBOSE=1
+  local KEEP=0
   local -a VERBOSE_FLAG
+  local -a KEEP_FLAG
 
   if [ -z "$1" ]; then
     # display usage if no parameters given
@@ -23,12 +25,17 @@ function extract {
 
   for n ; do
     VERBOSE_FLAG=()
+    KEEP_FLAG=()
     TMPDIR=
 
-    if grep -ie '-v' <<< "$n" ; then
-      VERBOSE=0
-      continue
-    fi
+    case $n in
+      -v) VERBOSE=0 ; continue ;;
+      -V) VERBOSE=1 ; continue ;;
+      -k) KEEP=0    ; continue ;;
+      -K) KEEP=1    ; continue ;;
+      *)  ;;
+    esac
+
     if [ ! -f "$n" ] ; then
       echo "'$n' - file does not exist" >&2
       EXIT_CODE="$((EXIT_CODE + 1))"
@@ -43,9 +50,11 @@ function extract {
                               test "${VERBOSE}" -eq 0 && VERBOSE_FLAG=(v)
                               tar "${VERBOSE_FLAG[*]}"xf "$n"       ;;
       *.lzma)                 unlzma ./"$n"      ;;
-      *.bz2)                  bunzip2 ./"$n"     ;;
+      *.bz2)                  test "${KEEP}" -eq 0 && KEEP_FLAG=(-k)
+                              bunzip2 "${KEEP_FLAG[@]}" ./"$n"     ;;
       *.cbr|*.rar)            unrar x -ad ./"$n" ;;
-      *.gz)                   gunzip ./"$n"      ;;
+      *.gz)                   test "${KEEP}" -eq 0 && KEEP_FLAG=(-k)
+                              gunzip "${KEEP_FLAG[@]}" ./"$n"      ;;
       *.cbz|*.epub|*.zip)
         # We test quiet instead
         test "${VERBOSE}" -eq 1 && VERBOSE_FLAG=(-q)
