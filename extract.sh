@@ -55,7 +55,7 @@ function extract {
       *.cbr|*.rar)            unrar x -ad ./"$n" ;;
       *.gz)                   test "${KEEP}" -eq 0 && KEEP_FLAG=(-k)
                               gunzip "${KEEP_FLAG[@]}" ./"$n"      ;;
-      *.cbz|*.epub|*.zip)
+      *.cbz|*.epub|*.zip|*.whl)
         # We test quiet instead
         test "${VERBOSE}" -eq 1 && VERBOSE_FLAG=(-q)
         unzip "${VERBOSE_FLAG[@]}" ./"$n"
