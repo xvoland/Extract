@@ -8,14 +8,17 @@ What’s a good way to extract: .zip, .rar, .bz2, .gz, .tar, .tbz2, .tgz, .Z, .7
 The goal is to make `extract` able to extract anything you give it. The command `extract` uses the free unpackers to support many older, obscure formats like this: .zip, .rar, .bz2, .gz, .tar, .tbz2, .tgz, .Z, .7z, .xz, .exe, .tar.bz2, .tar.gz, .tar.xz, .arj, .cab, .chm, .deb, .dmg, .iso, .lzh, .msi, .rpm, .udf, .wim, .xar .cpio, .cbr, .cbz, .cb7, .cbt, .cba, .apk, .zpaq, .arc, .ciso
 
 
-How to install (macOS)
+How to install
 -------------------------
 
-### macOS / OSX / Mac OS X
+### Bash - macOS / OSX / Mac OS X
 Copy&Paste function into file `~/.bash_profile`
 
-### Ubuntu / *nix
+### Bash - Ubuntu / *nix
 Copy&Paste function into file `~/.bashrc`
+
+### [Fish](https://fishshell.com/) v3.x.x - Ubuntu / *nix
+Copy&Paste `extract.fish` or make a symbolic link to `~/.config/fish/functions/.`
 
 
 I use hosting
