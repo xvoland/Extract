@@ -13,29 +13,36 @@ function extract
       if [ -f "$n" ]
         switch $n
            case '*.cbt' '*.tar.bz2' '*.tar.gz' '*.tar.xz' '*.tbz2' '*.tgz' '*.txz' '*.tar'
-             tar xvf "$n"
+              tar xvf "$n"
            case  '*.lzma'
-             unlzma ./"$n"
+              unlzma ./"$n"
            case '*.bz2'
-             bunzip2 ./"$n"
+              bunzip2 ./"$n"
            case '*.cbr' '*.rar'
-             unrar x -ad ./"$n"
+              unrar x -ad ./"$n"
            case '*.gz'
-             gunzip ./"$n"
+              gunzip ./"$n"
            case '*.cbz' '*.epub' '*.zip'
-             unzip ./"$n"
+              unzip ./"$n"
            case '*.z' 
-             uncompress ./"$n"
-           case '*.7z' '*.arj' '*.cab' '*.cb7' '*.chm' '*.deb' '*.dmg' '*.iso' '*.lzh' '*.msi' '*.pkg' '*.rpm' '*.udf' '*.wim' '*.xar'
-             7z x ./"$n"
+              uncompress ./"$n"
+           case '*.7z' '*.apk' '*.arj' '*.cab' '*.cb7' '*.chm' '*.deb' '*.dmg' '*.iso' '*.lzh' '*.msi' '*.pkg' '*.rpm' '*.udf' '*.wim' '*.xar'
+              7z x ./"$n"
            case '*.xz'
-             unxz -k ./"$n"
+              unxz -k ./"$n"
            case '*.exe'
-             cabextract ./"$n"
+              cabextract ./"$n"
            case '*.cpio'
-             cpio -id < ./"$n"
+              cpio -id < ./"$n"
            case '*.cba' '*.ace'
-             unace x ./"$n"
+              unace x ./"$n"
+            case '*.zpaq'
+              zpaq x ./"$n"
+            case '*.arc'
+              arc e ./"$n"
+            case '*.cso'
+              ciso 0 ./"$n" ./"$n.iso" && \
+               extract $n.iso && \rm -f $n
            case '*'
              echo "extract: '$n' - unknown archive method"
              return 1
