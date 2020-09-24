@@ -49,18 +49,18 @@ function extract {
       *.cbt|*.tar.bz2|*.tar.gz|*.tar.xz|*.tbz2|*.tgz|*.txz|*.tar)
                               test "${VERBOSE}" -eq 0 && VERBOSE_FLAG=(v)
                               tar "${VERBOSE_FLAG[*]}"xf "$n"       ;;
-      *.lzma)                 unlzma ./"$n"      ;;
+      *.lzma)                 unlzma "$n"      ;;
       *.bz2)                  test "${KEEP}" -eq 0 && KEEP_FLAG=(-k)
-                              bunzip2 "${KEEP_FLAG[@]}" ./"$n"     ;;
-      *.cbr|*.rar)            unrar x -ad ./"$n" ;;
+                              bunzip2 "${KEEP_FLAG[@]}" "$n"     ;;
+      *.cbr|*.rar)            unrar x -ad "$n" ;;
       *.gz)                   test "${KEEP}" -eq 0 && KEEP_FLAG=(-k)
-                              gunzip "${KEEP_FLAG[@]}" ./"$n"      ;;
+                              gunzip "${KEEP_FLAG[@]}" "$n"      ;;
       *.cbz|*.epub|*.zip|*.whl)
         # We test quiet instead
         test "${VERBOSE}" -eq 1 && VERBOSE_FLAG=(-q)
-        unzip "${VERBOSE_FLAG[@]}" ./"$n"
+        unzip "${VERBOSE_FLAG[@]}" "$n"
       ;;
-      *.z)                    uncompress ./"$n"  ;;
+      *.z)                    uncompress "$n"  ;;
       # ar is better for *.deb files
       *.deb)
         test "${VERBOSE}" -eq 0 && VERBOSE_FLAG=(v)
@@ -72,7 +72,10 @@ function extract {
           set -Eeuo pipefail
           mkdir "${TMPDIR}"
           cd "${TMPDIR}"
-          ar "${VERBOSE_FLAG[*]}"x ../"$n"
+          case "$n" in
+            /*) ar "${VERBOSE_FLAG[*]}"x    "$n" ;;
+             *) ar "${VERBOSE_FLAG[*]}"x ../"$n" ;;
+          esac
         )
         # shellcheck disable=SC2181
         if [ "$?" -ne 0 ] ; then
@@ -80,14 +83,14 @@ function extract {
         fi
       ;;
       *.7z|*.arj|*.cab|*.cb7|*.chm|*.deb|*.dmg|*.iso|*.lzh|*.msi|*.pkg|*.rpm|*.udf|*.wim|*.xar)
-                              7z x ./"$n"        ;;
-      *.xz)                   unxz ./"$n"        ;;
-      *.exe)                  cabextract ./"$n"  ;;
-      *.cpio)                 cpio -id < ./"$n"  ;;
-      *.cba|*.ace)            unace x ./"$n"     ;;
-      *.zpaq)                 zpaq x ./"$n"      ;;
-      *.arc)                  arc e ./"$n"       ;;
-      *.cso)                  ciso 0 ./"$n" ./"$n.iso" && extract "$n.iso" && command rm -f "$n" ;;
+                              7z x "$n"        ;;
+      *.xz)                   unxz "$n"        ;;
+      *.exe)                  cabextract "$n"  ;;
+      *.cpio)                 cpio -id < "$n"  ;;
+      *.cba|*.ace)            unace x "$n"     ;;
+      *.zpaq)                 zpaq x "$n"      ;;
+      *.arc)                  arc e "$n"       ;;
+      *.cso)                  ciso 0 "$n" "$n.iso" && extract "$n.iso" && command rm -f "$n" ;;
       *)
         echo "extract: '$n' - unknown archive method"
 
