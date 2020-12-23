@@ -11,6 +11,11 @@ in_temp() {
   echo "${in_dir}"
 }
 
+extractable_extesions() {
+  grep -oP '(?<=\*\.)[\w.]+' "$0" | tr '\n' '|' | sed 's/.$//'
+  [ -t 1 ] || echo
+}
+
 function extract {
   local EXIT_CODE=0
   local VERBOSE=1
@@ -20,15 +25,22 @@ function extract {
   local -a VERBOSE_FLAG
   local -a KEEP_FLAG
 
-  if [ -z "$1" ]; then
-    # display usage if no parameters given
+  if [ -z "$1" ] || [[ "$*" =~ (^|\s)(-h|--help)(\s|$) ]] ; then
+    # display usage if no parameters given or -h/--help at arguments
     {
-      echo "Usage: extract <path/file_name>.<zip|rar|bz2|gz|tar|tbz2|tgz|Z|7z|xz|ex|tar.bz2|tar.gz|tar.xz>"
-      echo "       extract <path/file_name_1.ext> [path/file_name_2.ext] [path/file_name_3.ext]"
+      echo "$0: magically extract any kind of archive"
+      printf "  Includes:"
+      extractable_extesions | sed 's/|/, /g' | fold --space | sed 's/^/  /g'
       echo
-      echo "Exit Code: 0 - all okay, 1-125: # of input files / archives not processed"
-      echo "           126 - show help"
-      echo "           127 - (reserved)"
+      echo "Usage:"
+      echo "  extract -h|--help"
+      echo "  extract [-v|-V] [-k|-K] [-D] path/file_name_1.ext ..."
+      echo
+      echo "Exit Code:"
+      echo "  0     - all okay"
+      echo "  1-125 - # of input files / archives not processed"
+      echo "  126   - show help"
+      echo "  127   - (reserved)"
     } >&2
 
     return 126
