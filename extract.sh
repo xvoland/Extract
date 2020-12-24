@@ -94,7 +94,7 @@ function extract {
           echo "Failed to prepare '$n' for extraction!" >&2
         fi
       ;&
-      *.cbz|*.epub|*.zip|*.whl)
+      *.cbz|*.epub|*.zip|*.whl|*.war)
         # We test quiet instead
         test "${VERBOSE}" -eq 1 && VERBOSE_FLAG=(-q)
         (
