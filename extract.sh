@@ -1,5 +1,9 @@
 #!/bin/bash
-# function Extract for common file formats
+#
+# Extract common file formats effortlessly
+#
+# Author: xVoLAnD <xvoland@gmail.com>
+# Author: Stdedos <133706+stdedos@users.noreply.github.com>
 
 in_temp() {
   set -Eeuo pipefail
@@ -22,19 +26,27 @@ function extract {
   local KEEP=0
   local FORCE_DIR=1
   local in_dir
+  local name
   local -a VERBOSE_FLAG
   local -a KEEP_FLAG
+
+  name="${FUNCNAME[0]}"
+  if [[ "${BASH_SOURCE[0]}" == "${0}" ]] && command -V perl &> /dev/null ; then
+    name="$(perl -pe "s#($(tr ':' '|' <<< "${PATH}"))/##g" <<< "$0")"
+  fi
 
   if [ -z "$1" ] || [[ "$*" =~ (^|\s)(-h|--help)(\s|$) ]] ; then
     # display usage if no parameters given or -h/--help at arguments
     {
-      echo "$0: magically extract any kind of archive"
+      echo "${name}: magically extract any kind of archive"
       printf "  Includes:"
       extractable_extesions | sed 's/|/, /g' | fold --space | sed 's/^/  /g'
       echo
       echo "Usage:"
-      echo "  extract -h|--help"
-      echo "  extract [-v|-V] [-k|-K] [-D] path/file_name_1.ext ..."
+      echo "  ${name} -h|--help"
+      echo "  ${name} [-v|-V] [-k|-K] [-D] path/file_name_1.ext ..."
+      echo
+      echo "Note that you may want to \`cd\` to the directory you want to extract to!"
       echo
       echo "Exit Code:"
       echo "  0     - all okay"
@@ -126,7 +138,7 @@ function extract {
       *.arc)                  arc e "$n"       ;;
       *.cso)                  ciso 0 "$n" "$n.iso" && extract "$n.iso" && command rm -f "$n" ;;
       *)
-        echo "extract: '$n' - unknown archive method"
+        >&2 echo "extract: '$n' - unknown archive method"
         (exit 1)
       ;;
       esac
