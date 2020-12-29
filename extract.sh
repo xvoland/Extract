@@ -116,7 +116,7 @@ function extract {
           unzip "${VERBOSE_FLAG[@]}" "$n"
         )
       ;;
-      *.z)                    uncompress "$n"  ;;
+      *.z|*.Z)                uncompress "$n"  ;;
       # ar is better for *.deb files
       *.deb)
         test "${VERBOSE}" -eq 0 && VERBOSE_FLAG=(v)
@@ -128,17 +128,20 @@ function extract {
         fi
         (cd "${in_dir}" && ar "${VERBOSE_FLAG[*]}"x "$n")
       ;;
-      *.7z|*.arj|*.cab|*.cb7|*.chm|*.deb|*.dmg|*.iso|*.lzh|*.msi|*.pkg|*.rpm|*.udf|*.wim|*.xar)
+      *.7z|*.arj|*.cab|*.cb7|*.chm|*.deb|*.dmg|*.iso|*.lzh|*.msi|*.pkg|*.rpm|*.udf|*.wim|*.xar|*.exe|*.apk)
                               7z x "$n"        ;;
       *.xz)                   unxz "$n"        ;;
       *.exe)                  cabextract "$n"  ;;
-      *.cpio)                 cpio -id < "$n"  ;;
+      *.cpio)
+        test "${VERBOSE}" -eq 0 && VERBOSE_FLAG=(v)
+        cpio -id"${VERBOSE_FLAG[*]}" < "$n"
+      ;;
       *.cba|*.ace)            unace x "$n"     ;;
       *.zpaq)                 zpaq x "$n"      ;;
       *.arc)                  arc e "$n"       ;;
       *.cso)                  ciso 0 "$n" "$n.iso" && extract "$n.iso" && command rm -f "$n" ;;
       *)
-        >&2 echo "extract: '$n' - unknown archive method"
+        >&2 echo "${name}: '$n' - unknown archive method"
         (exit 1)
       ;;
       esac
