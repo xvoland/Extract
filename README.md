@@ -34,7 +34,6 @@ $ extract <archive_filename.extention>
 $ extract <archive_filename_1.extention> <archive_filename_2.extention> <archive_filename_3.extention> ...
 ```
 
-
 ### Donation
 
 Donate any amount for my projects <a href='https://paypal.me/xvoland'>https://paypal.me/xvoland</a>
@@ -42,9 +41,15 @@ Donate any amount for my projects <a href='https://paypal.me/xvoland'>https://pa
 
 You are more than welcome to donate me some beer money :)
 
-
 <a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9D4YBRWH8QURU'><img alt='Click here to lend your support to Extractor and make a donation!' src='https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif' border='0' /></a>
 
+## Sponsors
+Extract community? Help us keep it alive by donating funds to cover project expenses! <br />
+[[Become a sponsor]https://opencollective.com/extract#support)]
+
+<a href="https://opencollective.com/extract/backers/0/website" target="_blank">
+    <img src="https://opencollective.com/extract/backers/0/avatar">
+  </a>
 
 License
 -------
