@@ -45,7 +45,7 @@ You are more than welcome to donate me some beer money :)
 
 ## Sponsors
 Extract community? Help us keep it alive by donating funds to cover project expenses! <br />
-[[Become a sponsor]https://opencollective.com/extract#support)]
+[[Become a sponsor](https://opencollective.com/extract#support)]
 
 <a href="https://opencollective.com/extract/backers/0/website" target="_blank">
     <img src="https://opencollective.com/extract/backers/0/avatar">
