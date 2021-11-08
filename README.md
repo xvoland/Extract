@@ -71,14 +71,16 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 ## Other
 ### Connect with me:
 
-[<img align="left" alt="xVoLAnD" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][home]
-[<img align="left" alt="xvoland | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Vitalii Tereshchuk | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="xVoLAnD" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][home]
+[<img align="left" alt="xvoland | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Vitalii Tereshchuk | YouTube" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+<br />
+<br />
 
 ---
 
-### 📺 Latest YouTube Videos
-
+📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Do you know what is this? Made in USSR.](https://www.youtube.com/watch?v=7eVXoXd43fw)
 - [Repair Samsung GALAXY Tab Pro SM-T520 Replace charger port micro-USB](https://www.youtube.com/watch?v=aL3--8PGQ3c)
@@ -88,6 +90,7 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
+
 
 [home]: http://dotoca.net
 [paypal]: https://paypal.me/xvoland
