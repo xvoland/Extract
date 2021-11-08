@@ -70,7 +70,7 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 Or welcome to my [Vitalii Tereshchuk channel][youtube]
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xvoland&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xvoland&show_icons=true&theme=radical&hide_border=true)
 
 <br />
 
