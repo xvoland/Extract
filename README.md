@@ -61,9 +61,7 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 [Become a sponsor][opencollective]
 
-<a href="[opencollective]" target="_blank">
-    <img src="https://opencollective.com/extract/backers/0/avatar">
-  </a>
+[<img src="https://opencollective.com/extract/backers/0/avatar">][opencollective]
 <br />
 
 ## License
