@@ -89,7 +89,7 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 - [OpenWRT LuCI NET::ERR_CERT_INVALID create self-signed SSL certificate for browsers Chrome, Safari](https://www.youtube.com/watch?v=t7r6cRtb6H8)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/xvoland)
+➡️ [more videos...][youtube]
 
 [home]: http://dotoca.net
 [paypal]: https://paypal.me/xvoland
