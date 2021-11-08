@@ -40,7 +40,7 @@ $ extract <archive_filename_1.extention> <archive_filename_2.extention> <archive
 
 I’ll continue to work and improve the script features regardless of the outcome of funding, because it's rewarding to see that people are using it and it does the job for them. Still I would appreciate your support in covering some of the expenses with the domain hosting and programming hours which are taken from my family time.
 
-Donate any amount for my projects <a href='https://paypal.me/xvoland'>https://paypal.me/xvoland</a>
+[Donate any amount for my projects][paypal]
 
 
 <a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9D4YBRWH8QURU'><img alt='Click here to lend your support to Extractor and make a donation!' src='https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif' border='0' /></a>
@@ -48,19 +48,21 @@ Donate any amount for my projects <a href='https://paypal.me/xvoland'>https://pa
 ## Sponsors
 Extract community? Help us keep it alive by donating funds to cover project expenses!
 
-[[Become a sponsor](https://opencollective.com/extract#support)]
+[Become a sponsor][opencollective]
 
 <a href="https://opencollective.com/extract/backers/0/website" target="_blank">
     <img src="https://opencollective.com/extract/backers/0/avatar">
   </a>
 
 ## License
-&copy; 2013, [Vitalii Tereshchuk](http://dotoca.net) via MIT license.
+&copy; 2013, [Vitalii Tereshchuk][home] via MIT license.
 
 
 ## Other
-Or welcome to my <a href='https://www.youtube.com/user/xVoLAnD'>Vitalii Tereshchuk channel</a>
+Or welcome to my [Vitalii Tereshchuk channel][youtube]
 
 [home]: http://dotoca.net
 [paypal]: https://paypal.me/xvoland
+[youtube]: https://youtube.com/xvoland
 [hosting]: https://goo.gl/3KpxQI
+[opencollective]: https://opencollective.com/extract/backers/0/website
