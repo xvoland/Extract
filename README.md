@@ -50,7 +50,11 @@ I’ll continue to work and improve the script features regardless of the outcom
 
 <a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9D4YBRWH8QURU'><img alt='Click here to lend your support to Extractor and make a donation!' src='https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif' border='0' /></a>
 
+---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xvoland&show_icons=true&theme=radical&hide_border=true)
+
 <br />
+
 
 ## Sponsors
 Extract community? Help us keep it alive by donating funds to cover project expenses!
@@ -67,15 +71,29 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 <br />
 
 ## Other
-Or welcome to my [Vitalii Tereshchuk channel][youtube]
+### Connect with me:
+
+[<img align="left" alt="xVoLAnD" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][home]
+[<img align="left" alt="xvoland | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Vitalii Tereshchuk | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xvoland&show_icons=true&theme=radical&hide_border=true)
 
-<br />
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Top VS Code Updates | v1.62 Released!! | Tips &amp; Tricks 2021 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=JENei5X1vzs)
+- [STACKr News Weekly: What is DevOps? 🤔 Next.js 12 💪, Mr. Beast Collab! 🌊](https://www.youtube.com/watch?v=Rt6vtIxiJ4k)
+- [API Crash Course - Integrate, Build, &amp; Sell an API $$$ &lpar;EASY!&rpar;](https://www.youtube.com/watch?v=FMJwaA2WMjc)
+- [#TeamSeas - Let&#39;s Clean up our Oceans!! 🌊 #Shorts](https://www.youtube.com/watch?v=XyIXjjEW56w)
+- [EASY to add Animation to any Site! | #Teamseas website animation using GSAP](https://www.youtube.com/watch?v=0sxnQCfJL2g)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/xvoland)
 
 [home]: http://dotoca.net
 [paypal]: https://paypal.me/xvoland
 [youtube]: https://youtube.com/xvoland
+[instagram]: https://www.instagram.com/xvoland/
 [hosting]: https://goo.gl/3KpxQI
 [opencollective]: https://opencollective.com/extract/backers/0/website
