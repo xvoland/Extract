@@ -21,7 +21,7 @@ Copy&Paste function into file `~/.bashrc`
 I use hosting
 -------------
 
-My hosting <a href='https://goo.gl/3KpxQI'>here</a>
+[My hosting here][hosting]
 
 How it use
 ----------
@@ -60,3 +60,7 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 ## Other
 Or welcome to my <a href='https://www.youtube.com/user/xVoLAnD'>Vitalii Tereshchuk channel</a>
+
+[home]: http://dotoca.net
+[paypal]: https://paypal.me/xvoland
+[hosting]: https://goo.gl/3KpxQI
