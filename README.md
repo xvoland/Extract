@@ -82,11 +82,7 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Top VS Code Updates | v1.62 Released!! | Tips &amp; Tricks 2021 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=JENei5X1vzs)
-- [STACKr News Weekly: What is DevOps? 🤔 Next.js 12 💪, Mr. Beast Collab! 🌊](https://www.youtube.com/watch?v=Rt6vtIxiJ4k)
-- [API Crash Course - Integrate, Build, &amp; Sell an API $$$ &lpar;EASY!&rpar;](https://www.youtube.com/watch?v=FMJwaA2WMjc)
-- [#TeamSeas - Let&#39;s Clean up our Oceans!! 🌊 #Shorts](https://www.youtube.com/watch?v=XyIXjjEW56w)
-- [EASY to add Animation to any Site! | #Teamseas website animation using GSAP](https://www.youtube.com/watch?v=0sxnQCfJL2g)
+
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/xvoland)
