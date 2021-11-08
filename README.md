@@ -91,12 +91,6 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 </details>
 
----
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-</details>
 
 [home]: http://dotoca.net
 [paypal]: https://paypal.me/xvoland
