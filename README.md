@@ -83,11 +83,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 <details>
   <summary>📺 Latest YouTube Videos</summary>
 <!-- YOUTUBE:START -->
-	- [Do you know what is this? Made in USSR.](https://www.youtube.com/watch?v=7eVXoXd43fw)
-	- [Repair Samsung GALAXY Tab Pro SM-T520 Replace charger port micro-USB](https://www.youtube.com/watch?v=aL3--8PGQ3c)
-	- [Screwdrivers. Make It Better! Restoration and make the best screwdrivers!](https://www.youtube.com/watch?v=K9vVYXvWtc4)
-	- [😂 Scottish accent Scots Gaelic. English humour.](https://www.youtube.com/watch?v=OdO5droc1w0)
-	- [OpenWRT LuCI NET::ERR_CERT_INVALID create self-signed SSL certificate for browsers Chrome, Safari](https://www.youtube.com/watch?v=t7r6cRtb6H8)
+- [Do you know what is this? Made in USSR.](https://www.youtube.com/watch?v=7eVXoXd43fw)
+- [Repair Samsung GALAXY Tab Pro SM-T520 Replace charger port micro-USB](https://www.youtube.com/watch?v=aL3--8PGQ3c)
+- [Screwdrivers. Make It Better! Restoration and make the best screwdrivers!](https://www.youtube.com/watch?v=K9vVYXvWtc4)
+- [😂 Scottish accent Scots Gaelic. English humour.](https://www.youtube.com/watch?v=OdO5droc1w0)
+- [OpenWRT LuCI NET::ERR_CERT_INVALID create self-signed SSL certificate for browsers Chrome, Safari](https://www.youtube.com/watch?v=t7r6cRtb6H8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
