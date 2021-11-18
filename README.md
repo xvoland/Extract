@@ -82,7 +82,7 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [USSR Nintendo EG-26 Egg](https://www.youtube.com/watch?v=BEVh_TlZoN8)
+- [USSR Nintendo EG-26 Egg &quot;Ну, погоди!&quot;](https://www.youtube.com/watch?v=BEVh_TlZoN8)
 - [USSR movement POLJOT 2614.2H Made in USSR](https://www.youtube.com/watch?v=63okxl68DBk)
 - [Do you know what is this? Made in USSR.](https://www.youtube.com/watch?v=7eVXoXd43fw)
 - [Repair Samsung GALAXY Tab Pro SM-T520 Replace charger port micro-USB](https://www.youtube.com/watch?v=aL3--8PGQ3c)
