@@ -82,11 +82,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Condom Save from Bad Smell In The Bathroom or How To Resolve a Smelly Bathroom Sink](https://www.youtube.com/watch?v=4Mtdn2tlQI4)
 - [Press to show out the battery charge](https://www.youtube.com/watch?v=KJbjE0e_unE)
 - [How To Start a Car That Has Been Sitting For 3 Years. VW Passat B6](https://www.youtube.com/watch?v=F5HGfXDRlZU)
 - [USSR Nintendo EG-26 Egg &quot;Ну, погоди!&quot;](https://www.youtube.com/watch?v=BEVh_TlZoN8)
 - [USSR movement POLJOT 2614.2H Made in USSR](https://www.youtube.com/watch?v=63okxl68DBk)
-- [Do you know what is this? Made in USSR.](https://www.youtube.com/watch?v=7eVXoXd43fw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
