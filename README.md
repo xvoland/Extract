@@ -82,11 +82,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [What is this? Do you know?](https://www.youtube.com/watch?v=P8xSgcQjtco)
 - [UA Coins. On guard of life &lpar;dedicated to military medics&rpar; 10 UAH  #shorts](https://www.youtube.com/watch?v=w6yxj9SUFO0)
 - [💰 Coins 10 UAH Coins On guard of life &lpar;dedicated to military medics&rpar;](https://www.youtube.com/watch?v=eKKFCPuh_f0)
 - [💡 Receipt Paper - How to Restore Information from receipts](https://www.youtube.com/watch?v=Ug8UONy4Vio)
 - [🛠💡 Condom Save from Bad Smell In The Bathroom or How To Resolve a Smelly Bathroom Sink](https://www.youtube.com/watch?v=4Mtdn2tlQI4)
-- [Press to show out the battery charge](https://www.youtube.com/watch?v=KJbjE0e_unE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
