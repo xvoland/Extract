@@ -82,11 +82,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [GOD mode of Multimeter #shorts](https://www.youtube.com/watch?v=BjLBd3RyCko)
 - [👀 Rare Watch Montana with instruction, later Soviet Union Electronika-77 USSR](https://www.youtube.com/watch?v=zCaJ6ujc960)
 - [Vintage watch Montana very popular in USSR #shorts](https://www.youtube.com/watch?v=2ZUrbClZNw0)
 - [🛠💡 Why required to change TV all backlights?](https://www.youtube.com/watch?v=949JomReCXY)
 - [ 💡 Matrix in Console](https://www.youtube.com/watch?v=rK6nGZKi6xE)
-- [💡👀 How to Reliable and Beautiful way to tie Shoe Laces for Travel. Life-hack shoes lace styles](https://www.youtube.com/watch?v=5A8GZwxhr70)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
