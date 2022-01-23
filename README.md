@@ -83,9 +83,9 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [🕰💡 How To Assemble a Watch Mainspring By Hand](https://www.youtube.com/watch?v=HP9rkUKqR7U)
-- [🛠 Jupiter 37A disassembly 135mm f3.5](https://www.youtube.com/watch?v=goO4oIKj9aw)
-- [🛠💡 Unscrew Front Lens Cover &lpar;cap, label&rpar; and Lens. Jupiter 37a lifehack](https://www.youtube.com/watch?v=Cz-WqgBBjTo)
-- [🛠 Helios 44-2 Increase contrast. Partial disassembly. Lubrication. Cleaning the aperture blades.](https://www.youtube.com/watch?v=Bu0uyJGJs3E)
+- [📷 🛠 Jupiter 37A disassembly 135mm f3.5](https://www.youtube.com/watch?v=goO4oIKj9aw)
+- [📷 💡 Unscrew Front Lens Cover &lpar;cap, label&rpar; and Lens. Jupiter 37a lifehack](https://www.youtube.com/watch?v=Cz-WqgBBjTo)
+- [📷 🛠 Helios 44-2 Increase contrast. Partial disassembly. Lubrication. Cleaning the aperture blades.](https://www.youtube.com/watch?v=Bu0uyJGJs3E)
 - [💡 Rope Butt Knot, Grapevine Knot, Piriformis Knot. Easy to learn. Lifehack](https://www.youtube.com/watch?v=gSxGuYNkdmQ)
 <!-- YOUTUBE:END -->
 
