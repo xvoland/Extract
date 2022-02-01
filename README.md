@@ -82,11 +82,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Boiler. What for? Cook the heating element #shorts](https://www.youtube.com/watch?v=DSiizU3mb40)
 - [🛠 How to fix broken furniture fittings. Particle Furniture Repair or Fix](https://www.youtube.com/watch?v=b-_xPp8ZVnc)
 - [🕰💡 How To Assemble a Watch Mainspring By Hand](https://www.youtube.com/watch?v=HP9rkUKqR7U)
 - [📷 🛠 Jupiter 37A disassembly 135mm f3.5](https://www.youtube.com/watch?v=goO4oIKj9aw)
 - [📷 💡 Unscrew Front Lens Cover &lpar;cap, label&rpar; and Lens. Jupiter 37a lifehack](https://www.youtube.com/watch?v=Cz-WqgBBjTo)
-- [📷 🛠 Helios 44-2 Increase contrast. Partial disassembly. Lubrication. Cleaning the aperture blades.](https://www.youtube.com/watch?v=Bu0uyJGJs3E)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
