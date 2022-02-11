@@ -82,11 +82,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [1 hryvnia UAH 1996 rare coins of Ukraine #shorts](https://www.youtube.com/watch?v=lejnEaCWWt4)
 - [Water Heater Anode Rod - Checking. How to test anode rod for boiler](https://www.youtube.com/watch?v=4UeDgnRT9tU)
 - [ARISTON TI Shape Small after 5 years of use. Repair Water Heater Anode Rod and Checking](https://www.youtube.com/watch?v=WN8Qh5Y_XUE)
 - [Boiler. What for? Cook the heating element #shorts](https://www.youtube.com/watch?v=DSiizU3mb40)
 - [🛠 How to fix broken furniture fittings. Particle Furniture Repair or Fix](https://www.youtube.com/watch?v=b-_xPp8ZVnc)
-- [🕰💡 How To Assemble a Watch Mainspring By Hand](https://www.youtube.com/watch?v=HP9rkUKqR7U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
