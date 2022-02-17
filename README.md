@@ -82,7 +82,7 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [🛠 REPAIR Thermostat ARISTON Water Heater Blue PRO ECO THERMOWATT SPA TBSE H 8 A T 70 CU 70](https://www.youtube.com/watch?v=yw28sZKOWv8)
+- [🛠 REPAIR Thermostat ARISTON. All indicators light up. Water Heater Blue PRO ECO](https://www.youtube.com/watch?v=yw28sZKOWv8)
 - [🛠 How to Test a Temperature Sensor with a Multimeter? Ariston water heater](https://www.youtube.com/watch?v=6T1WhG7-hjQ)
 - [🕰 Watch Poljot 17 jewels 2614.2h Chess made in USSR. Chinese watch strap adaptation](https://www.youtube.com/watch?v=G3NH6cqVE4c)
 - [💰 1 hryvnia UAH 1996 rare coins of Ukraine #shorts](https://www.youtube.com/watch?v=lejnEaCWWt4)
