@@ -14,7 +14,7 @@ function extract {
     do
       if [ -f "$n" ] ; then
           case "${n%,}" in
-            *.cbt|*.tar.bz2|*.tar.gz|*.tar.xz|*.tbz2|*.tgz|*.txz|*.tar) 
+            *.cbt|*.tar.bz2|*.tar.gz|*.tar.xz|*.tbz2|*.tgz|*.txz|*.tar)
                          tar xvf "$n"       ;;
             *.lzma)      unlzma ./"$n"      ;;
             *.bz2)       bunzip2 ./"$n"     ;;
@@ -32,6 +32,8 @@ function extract {
             *.arc)       arc e ./"$n"       ;;
             *.cso)       ciso 0 ./"$n" ./"$n.iso" && \
                               extract $n.iso && \rm -f $n ;;
+            *.zlib)      zlib-flate -uncompress < ./"$n" > ./"$n.tmp" && \
+                              mv ./"$n.tmp" ./"${n%.*zlib}" && rm -f "$n"   ;;
             *)
                          echo "extract: '$n' - unknown archive method"
                          return 1
