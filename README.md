@@ -82,11 +82,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🛠 Repair PHILIPS Iron power cable DIY](https://www.youtube.com/watch?v=5dH1ZjBJivE)
 - [Why don&#39;t forks overturn matches? Physics.](https://www.youtube.com/watch?v=aLPW195ALWg)
 - [Girl gymnast &amp; Lukashenko](https://www.youtube.com/watch?v=gj2N9S6HmB4)
 - [CC Credit Card Scams on the truck stop &lpar;phishing&rpar; #shorts](https://www.youtube.com/watch?v=h0_I0pZnNLI)
 - [🛠 REPAIR Thermostat ARISTON. All indicators light up. Water Heater Blue PRO ECO](https://www.youtube.com/watch?v=yw28sZKOWv8)
-- [🛠 How to Test a Temperature Sensor with a Multimeter? Ariston water heater](https://www.youtube.com/watch?v=6T1WhG7-hjQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
