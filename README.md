@@ -82,11 +82,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🛠 DIY Homemade. How to make a cast of gear teeth](https://www.youtube.com/watch?v=S6xzqWgrfJU)
 - [👍🏻 Battery With Voltage Indicator](https://www.youtube.com/watch?v=3FcIKvEo72E)
 - [🛠 Repair PHILIPS Iron power cable DIY](https://www.youtube.com/watch?v=5dH1ZjBJivE)
 - [Why don&#39;t forks overturn matches? Physics.](https://www.youtube.com/watch?v=aLPW195ALWg)
 - [Girl gymnast &amp; Lukashenko](https://www.youtube.com/watch?v=gj2N9S6HmB4)
-- [CC Credit Card Scams on the truck stop &lpar;phishing&rpar; #shorts](https://www.youtube.com/watch?v=h0_I0pZnNLI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
