@@ -82,7 +82,7 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [🛠 How to repair SPRAY WATER BOTTLE PUMP hand shower. Unique problem](https://www.youtube.com/watch?v=Rh63QM9z5Sw)
+- [🛠 How to REPAIR SPRAY WATER BOTTLE PUMP hand shower. Unique problem](https://www.youtube.com/watch?v=Rh63QM9z5Sw)
 - [💡👀 BEST &amp; Beautiful way to tie Shoelaces. Life-hack shoes lace styles | cool shoe laces](https://www.youtube.com/watch?v=J4Ov5fsfC-c)
 - [🛠 DIY Homemade. How to repair a cast of gear teeth](https://www.youtube.com/watch?v=S6xzqWgrfJU)
 - [👍🏻 Battery With Voltage Indicator](https://www.youtube.com/watch?v=3FcIKvEo72E)
