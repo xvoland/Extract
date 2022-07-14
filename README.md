@@ -82,11 +82,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [💡 How to use a butterfly clasp on a watch strap from China?](https://www.youtube.com/watch?v=8nLsn8lx9Oc)
 - [💡 How to clean cupronickel spoons from blackness at home? Easy cleaning jewelry.](https://www.youtube.com/watch?v=Kbae3gmG-tQ)
 - [🔥 4K Kremlin on Fire footage. The sound of a burning fireplace. Moscow In Fire screensaver](https://www.youtube.com/watch?v=w_skQHgofX4)
 - [🛠 Fix Watt Meter stopped working - repair wattmeter TS-836](https://www.youtube.com/watch?v=JIqSPH7IG6c)
 - [OpenWRT LEDE + WPA3 Cannot install wpad-openssl or wpad-wolfssl &lpar;advanced Wi-Fi security explained&rpar;](https://www.youtube.com/watch?v=ETYRz9ZHCI8)
-- [🛠 How to REPAIR SPRAY WATER BOTTLE PUMP hand shower. Unique problem](https://www.youtube.com/watch?v=Rh63QM9z5Sw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
