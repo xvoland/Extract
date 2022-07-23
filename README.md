@@ -82,7 +82,7 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [💡 Beautiful Hoodies Style Knot. Tie dope knots on your clothes](https://www.youtube.com/watch?v=pm6SxuY2bes)
+- [💡 Amazing tie knots for Hoodies Style. Tie dope beautiful knots on your clothes](https://www.youtube.com/watch?v=pm6SxuY2bes)
 - [🕰  Poljot Watches Made in USSR #shorts](https://www.youtube.com/watch?v=pWNKs6bZgd8)
 - [🕰 POLJOT Watch Chess 2614.2H Made in USSR. Vintage watche after restoration showreel](https://www.youtube.com/watch?v=-yHeivchShw)
 - [🕰💡 How to use a Deployant Clasp on a watch strap from China?](https://www.youtube.com/watch?v=8nLsn8lx9Oc)
