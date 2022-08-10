@@ -82,7 +82,7 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [💡🔪 XV Beginners Easiest Guide to Sharpening Any Knife by hand without devices.](https://www.youtube.com/watch?v=apTXizOZgzY)
+- [💡🔪 XV Beginners Easiest Guide to Sharpening Any Knife by hand without devices](https://www.youtube.com/watch?v=apTXizOZgzY)
 - [💡 Legally Blonde movie Google eggs 2022](https://www.youtube.com/watch?v=8A0pwmKGyPY)
 - [🕰 Watches Poljot 2614.2H Made in USSR #shorts](https://www.youtube.com/watch?v=AP3ngBewfpw)
 - [🕰 Watches POLJOT 2614.2H Black Gold Made in USSR. Restored.](https://www.youtube.com/watch?v=hxssVczJl94)
