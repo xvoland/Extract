@@ -82,11 +82,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Прямая трансляция пользователя Vitalii Tereshchuk](https://www.youtube.com/watch?v=SaaFQGoNJeo)
+- [Knots &amp; Tie Shoelaces [STREAM ONLINE]](https://www.youtube.com/watch?v=X8U9Ah0C_08)
 - [💡👀 For Girls, tie shoelaces. Beautiful Butterfly on your shoes. Life-hack styles | cool shoe laces](https://www.youtube.com/watch?v=o0zEHCigrhI)
 - [💡🔪 XV Beginners Easiest Guide to Sharpening Any Knife by hand without devices](https://www.youtube.com/watch?v=apTXizOZgzY)
 - [💡 Legally Blonde movie Google eggs 2022](https://www.youtube.com/watch?v=8A0pwmKGyPY)
-- [🕰 Watches Poljot 2614.2H Made in USSR #shorts](https://www.youtube.com/watch?v=AP3ngBewfpw)
-- [🕰 Watches POLJOT 2614.2H Black Gold Made in USSR. Restored.](https://www.youtube.com/watch?v=hxssVczJl94)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
