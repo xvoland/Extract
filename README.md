@@ -82,8 +82,8 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [💡 Create Pills Monster. Medical Experiment.](https://www.youtube.com/watch?v=1okvOwZ3-O4)
-- [💡 Pills Chemistry Experiment to create Monster](https://www.youtube.com/watch?v=GnoZ8t6bN68)
+- [💡 Magic Pills. Raising a Monster and chemistry experiment](https://www.youtube.com/watch?v=1okvOwZ3-O4)
+- [💡 Magic Pills Experiment. Raising a Monster](https://www.youtube.com/watch?v=GnoZ8t6bN68)
 - [💡 Sharpen Screwdriver Blades. How to Tutorial DIY](https://www.youtube.com/watch?v=SCBb35o3dQU)
 - [💰 Penny crafts or Coins Art](https://www.youtube.com/watch?v=7MW8qLlg494)
 - [💡👀 For Girls, tie shoelaces. Beautiful Butterfly on your shoes. Life-hack styles | cool shoe laces](https://www.youtube.com/watch?v=o0zEHCigrhI)
