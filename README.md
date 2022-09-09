@@ -82,7 +82,7 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Ukrainian trident like Apple logo event 2022](https://www.youtube.com/watch?v=musAyvLpUjE)
+- [Ukrainian trident like Apple logo event 2022 screensaver or footage](https://www.youtube.com/watch?v=musAyvLpUjE)
 - [Like Apple](https://www.youtube.com/watch?v=2VQsIh4r1xo)
 - [Effect Logo like Apple &quot;Far Out&quot; 2022 looping. iPhone 14 Pro](https://www.youtube.com/watch?v=EJg9SMQTL3E)
 - [Broken TV LCD screen but repairable](https://www.youtube.com/watch?v=s3P6EhQR_sI)
