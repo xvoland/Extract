@@ -82,11 +82,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Stable Diffusion AI animation Kyiv, Ukraine set](https://www.youtube.com/watch?v=bYiZh4v5808)
 - [AI animation Stable Diffusion short](https://www.youtube.com/watch?v=xQ_92vggjJ0)
 - [4K Amazing Apple VFX logo](https://www.youtube.com/watch?v=CaIpQqSz-n8)
 - [4K Amazing Effect of Ukrainian Trident like Apple Event 2022 logo cgi vfx](https://www.youtube.com/watch?v=lbUmje7smgs)
 - [Effect Logo like Apple &quot;Far Out&quot; 2022 looping. iPhone 14 Pro](https://www.youtube.com/watch?v=EJg9SMQTL3E)
-- [Broken TV LCD screen but repairable](https://www.youtube.com/watch?v=s3P6EhQR_sI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
