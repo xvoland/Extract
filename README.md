@@ -82,7 +82,7 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [🎃 Halloween 2022 🎃](https://www.youtube.com/watch?v=l2ltn-3tr8s)
+- [🎃 Halloween Horror Joke Nights Costumes 2022 🎃](https://www.youtube.com/watch?v=HfUJ5eImU0I)
 - [💡 DIY Easy Emergency Pocket Flashlight build](https://www.youtube.com/watch?v=cMJ7O053BBE)
 - [ Free BEST VPN and Easy Install WireGuard to VPS. macOS, iPhone or Android installation tutorial](https://www.youtube.com/watch?v=8SHsF_xQGuY)
 - [Who are you? Strange bug HRU](https://www.youtube.com/watch?v=hPj5JSL6tzo)
