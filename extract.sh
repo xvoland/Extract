@@ -31,7 +31,7 @@ function extract {
             *.zpaq)      zpaq x ./"$n"      ;;
             *.arc)       arc e ./"$n"       ;;
             *.cso)       ciso 0 ./"$n" ./"$n.iso" && \
-                              extract $n.iso && \rm -f $n ;;
+                              extract "$n.iso" && \rm -f "$n" ;;
             *.zlib)      zlib-flate -uncompress < ./"$n" > ./"$n.tmp" && \
                               mv ./"$n.tmp" ./"${n%.*zlib}" && rm -f "$n"   ;;
             *)
