@@ -82,11 +82,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [💡 What is the best way to crack walnuts?](https://www.youtube.com/watch?v=byCu9wfAnYI)
 - [💡 BEST Christmas Music 2022 , MYKOLA LEONTOVYCH &lpar;Carol of the bells - Shchedryk&rpar;](https://www.youtube.com/watch?v=8wjYc3VpvEM)
 - [🛠 Repair Anti-Dust Mesh of Headphone, Earphone or Headsets](https://www.youtube.com/watch?v=r-vByOp-eHw)
 - [🛠 How to fix noisy cooler or fan?](https://www.youtube.com/watch?v=2xOF3DMLr8o)
 - [How does the iPhone switches to winter/summer time?](https://www.youtube.com/watch?v=ZvYlV9541PE)
-- [⭐ The Phone Switches to Winter Time or Summer Time. In realtime.](https://www.youtube.com/watch?v=PfL0feBTOlk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
