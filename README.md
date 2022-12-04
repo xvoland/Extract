@@ -82,11 +82,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Can you calculate?](https://www.youtube.com/watch?v=47wY5Q3m8DU)
 - [🛠  HELP! Wires With Crocodile Clips. DIY Alligator Clips Made In China](https://www.youtube.com/watch?v=exTPxTkerFg)
 - [💡 What is the best way to crack walnuts?](https://www.youtube.com/watch?v=byCu9wfAnYI)
 - [💡 BEST Christmas Music 2022 , MYKOLA LEONTOVYCH &lpar;Carol of the bells - Shchedryk&rpar;](https://www.youtube.com/watch?v=8wjYc3VpvEM)
 - [🛠 Repair Anti-Dust Mesh of Headphone, Earphone or Headsets](https://www.youtube.com/watch?v=r-vByOp-eHw)
-- [🛠 How to fix noisy cooler or fan?](https://www.youtube.com/watch?v=2xOF3DMLr8o)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
