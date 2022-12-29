@@ -82,11 +82,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Like Movie DIY Anamorphic Lens](https://www.youtube.com/watch?v=t2fQHIL9wEo)
 - [🛠 DIY Anamorphic Lens Test on the Sony A7](https://www.youtube.com/watch?v=XozksftEQ9I)
 - [💡 🛠 Bought and Disassembly of LOMO Anamorphic 35 NAP2-3](https://www.youtube.com/watch?v=kHDwkf4xD7I)
 - [Can you calculate?](https://www.youtube.com/watch?v=47wY5Q3m8DU)
 - [🛠  HELP! Wires With Crocodile Clips. DIY Alligator Clips Made In China](https://www.youtube.com/watch?v=exTPxTkerFg)
-- [💡 What is the best way to crack walnuts?](https://www.youtube.com/watch?v=byCu9wfAnYI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
