@@ -85,7 +85,7 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 - [Me and Happy New Year 2023](https://www.youtube.com/watch?v=ohhjiAsC0WE)
 - [💡 Maths Percentages made easy shorts](https://www.youtube.com/watch?v=Z50tS4XDNaE)
 - [💡 Maths Hack - Percentages. How easy to calculate percents? Percentages made easy](https://www.youtube.com/watch?v=LT1nVWGMtig)
-- [💰 Coin 10 UAH Army Forces of Ukraine AFU](https://www.youtube.com/watch?v=PGad3_ibsHc)
+- [💰 Coin 10 UAH of the Territorial Defense Forces of the Armed Forces of Ukraine, AFU, TRO, Teroborona](https://www.youtube.com/watch?v=PGad3_ibsHc)
 - [Like Movie DIY Anamorphic Lens](https://www.youtube.com/watch?v=t2fQHIL9wEo)
 <!-- YOUTUBE:END -->
 
