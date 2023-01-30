@@ -82,11 +82,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [💡 Lifehack. The Easiest way to Thread a Needle. It&#39;s Like Magic!](https://www.youtube.com/watch?v=Xql47qzwx1I)
 - [DIY Bus Light Repair Lifehack](https://www.youtube.com/watch?v=jT3vq-S162c)
 - [Me and Happy New Year 2023](https://www.youtube.com/watch?v=ohhjiAsC0WE)
 - [💡 Maths Percentages made easy shorts](https://www.youtube.com/watch?v=Z50tS4XDNaE)
 - [💡 Maths Hack - Percentages. How easy to calculate percents? Percentages made easy](https://www.youtube.com/watch?v=LT1nVWGMtig)
-- [💰 Coin 10 UAH of the Territorial Defense Forces of the Armed Forces of Ukraine, AFU, TRO, Teroborona](https://www.youtube.com/watch?v=PGad3_ibsHc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
