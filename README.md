@@ -82,11 +82,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [🛠 How to fix noisy cooler or fan?](https://www.youtube.com/watch?v=2xOF3DMLr8o)
-- [How does the iPhone switches to winter/summer time?](https://www.youtube.com/watch?v=ZvYlV9541PE)
-- [⭐ The Phone Switches to Winter Time or Summer Time. In realtime.](https://www.youtube.com/watch?v=PfL0feBTOlk)
-- [💡 DIY Emergency Pocket Flashlight CR-2032 or CR-2042. 5-minutes crafts](https://www.youtube.com/watch?v=3DRP5x1OAZg)
-- [🎃 Halloween Horror Joke Nights Costumes 2022 🎃](https://www.youtube.com/watch?v=HfUJ5eImU0I)
+- [😉 My rare Rolex Old/New watch 1975 restoration ASMR](https://www.youtube.com/watch?v=n37Ldp83LPg)
+- [🕰 SLAVA 2428 Caliber or SEKONDA USSR. ASMR Guide watch Disassembly](https://www.youtube.com/watch?v=dponjao-JdE)
+- [🕰 RARE USSR watch SLAVA 2428 Caliber or SEKONDA 2428. Clock Tuner](https://www.youtube.com/watch?v=DoEtJFf-Szs)
+- [Dogs VS Cats and sheeps](https://www.youtube.com/watch?v=abvp7XxX7VA)
+- [💡 Lifehack. The Easiest way to Thread a Needle. It&#39;s Like Magic!](https://www.youtube.com/watch?v=Xql47qzwx1I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
