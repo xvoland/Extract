@@ -29,7 +29,7 @@ Add the highly convenient Copy & Paste functionality to your file management ars
 
 or
 
-add command into file `~/.bash_profile`
+add command into file `~/.bash_profile` or `~/.zshrc` or `~/.functions`
 
 ```bash
 export PATH=<path_to_file>/extract.sh:$PATH
