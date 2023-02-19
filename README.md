@@ -6,8 +6,20 @@ Looking to extract a diverse range of file formats on your Mac or Linux? Look no
 
 `extract` utilizes free unpackers to ensure support for even the most obscure and outdated file types. Give `extract` a try and streamline your file extraction process today!
 
-
 <br />
+
+Description
+-------------------------
+
+This is a Bash function called "extract" that is designed to extract a variety of file formats. It takes one or more arguments, each of which represents a file or path that needs to be extracted. If no arguments are provided, the function displays usage instructions.
+
+The function uses a case statement to determine the appropriate extraction method for each file type, and then calls the corresponding command. For example, if the file is a ZIP archive, the function uses the "unzip" command to extract its contents.
+
+If the file is not recognized as a valid archive, the function displays an error message and returns an error code of 1.
+
+Before running the function, the value of the Internal Field Separator (IFS) is saved so that it can be restored at the end of the function. This is done to prevent unwanted word splitting and filename expansion when processing file paths.
+
+Overall, this function provides a convenient way to extract a wide variety of archive formats using a single command, simplifying and streamlining the extraction process.
 
 How to install (macOS)
 -------------------------
@@ -15,11 +27,20 @@ How to install (macOS)
 ### macOS / OSX / Mac OS X
 Add the highly convenient Copy & Paste functionality to your file management arsenal by simply including the appropriate code into your `~/.bash_profile` file. With this modification, you'll be able to breeze through your file manipulation tasks with ease and efficiency.
 
+or
+
+add command into file `~/.bash_profile`
+
+```bash
+export PATH=<path_to_file>/extract.sh:$PATH
+```
+
 So don't delay, update your `~/.bash_profile` today and supercharge your file management capabilities!
 
 <br />
 
 ### Ubuntu / *nix
+
 Copy&Paste function into file `~/.bashrc`
 
 
