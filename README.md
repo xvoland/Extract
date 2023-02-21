@@ -2,7 +2,7 @@
 
 Command/function `extract` in your console
 =================================
-Looking to extract a diverse range of file formats on your Mac or Linux? Look no further than the versatile `extract` command, designed to handle just about any file you throw at it! With built-in support for an extensive list of formats including .zip, .rar, .bz2, .gz, .zlib, .tar, .tbz2, .tgz, .Z, .7z, .xz, .exe, .tar.bz2, .tar.gz, .tar.xz, .arj, .cab, .chm, .deb, .dmg, .iso, .lzh, .msi, .rpm, .udf, .wim, .xar .cpio, .cbr, .cbz, .cb7, .cbt, .cba, .apk, .zpaq, .arc, and .ciso, you can rest assured that your extraction needs will be met with ease.
+Looking to extract a diverse range of file formats on your Mac or Linux? Look no further than the versatile `extract` command, designed to handle just about any file you throw at it! With built-in support for an extensive list of formats including .zip, .rar, .bz2, .gz, .zlib, .tar, .tbz2, .tgz, .Z, .7z, .xz, .exe, .tar.bz2, .tar.gz, .tar.xz, .arj, .cab, .chm, .deb, .dmg, .iso, .lzh, .msi, .rpm, .udf, .wim, .xar .cpio, .cbr, .cbz, .cb7, .cbt, .cba, .apk, .zpaq, .arc, .vhd, and .ciso, you can rest assured that your extraction needs will be met with ease.
 
 `extract` utilizes free unpackers to ensure support for even the most obscure and outdated file types. Give `extract` a try and streamline your file extraction process today!
 
