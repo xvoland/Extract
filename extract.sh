@@ -22,7 +22,7 @@ function extract {
             *.gz)        gunzip ./"$n"      ;;
             *.cbz|*.epub|*.zip) unzip ./"$n"   ;;
             *.z)         uncompress ./"$n"  ;;
-            *.7z|*.apk|*.arj|*.cab|*.cb7|*.chm|*.deb|*.dmg|*.iso|*.lzh|*.msi|*.pkg|*.rpm|*.udf|*.wim|*.xar)
+            *.7z|*.apk|*.arj|*.cab|*.cb7|*.chm|*.deb|*.iso|*.lzh|*.msi|*.pkg|*.rpm|*.udf|*.wim|*.xar)
                          7z x ./"$n"        ;;
             *.xz)        unxz ./"$n"        ;;
             *.exe)       cabextract ./"$n"  ;;
@@ -34,6 +34,8 @@ function extract {
                               extract "$n.iso" && \rm -f "$n" ;;
             *.zlib)      zlib-flate -uncompress < ./"$n" > ./"$n.tmp" && \
                               mv ./"$n.tmp" ./"${n%.*zlib}" && rm -f "$n"   ;;
+            *.dmg)
+                        hdiutil mount ./"$n" -mountpoint "./$n.mounted" ;;
             *)
                          echo "extract: '$n' - unknown archive method"
                          return 1
