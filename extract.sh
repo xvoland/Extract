@@ -15,7 +15,7 @@ function extract {
       if [ -f "$n" ] ; then
           case "${n%,}" in
             *.cbt|*.tar.bz2|*.tar.gz|*.tar.xz|*.tbz2|*.tgz|*.txz|*.tar)
-                         tar xvf "$n"       ;;
+                         tar xvf -p "$n"    ;;
             *.lzma)      unlzma ./"$n"      ;;
             *.bz2)       bunzip2 ./"$n"     ;;
             *.cbr|*.rar) unrar x -ad ./"$n" ;;
