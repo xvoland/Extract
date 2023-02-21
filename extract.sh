@@ -13,9 +13,10 @@
 # Example:
 # $ extract file_name.zip
 #
-# More info here: https://github.com/xvoland/Extract/blob/master/extract.sh
-#
-# function Extract for common file formats
+# Author: Vitalii Tereshchuk, 2013
+# Web:    https://dotoca.net
+# Github: https://github.com/xvoland/Extract/blob/master/extract.sh
+
 
 SAVEIFS=$IFS
 IFS="$(printf '\n\t')"
