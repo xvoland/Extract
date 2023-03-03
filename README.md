@@ -105,11 +105,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🕰 Restoration of a Vintage Slava - 2427](https://www.youtube.com/watch?v=Hk7sBvEjsUY)
 - [😍 WOW! Tie Shoelaces 😍](https://www.youtube.com/watch?v=E1uPePdJH54)
 - [💡👀 BEAUTIFUL to tie Shoelaces ASMR. Life-hack shoes lace styles | cool shoe laces](https://www.youtube.com/watch?v=5HW0mmZiZOU)
 - [🕰 Revive Your Watch with Fiber Pencil Cleaning - Here&#39;s How!](https://www.youtube.com/watch?v=Qj2clwaEoPc)
 - [🕰 Shock Spring Watch Slava 2428 or SEKONDA lifehack](https://www.youtube.com/watch?v=te3NTGwPrPo)
-- [🕰 Shock Spring install tutorial. Slava 2428 Caliber](https://www.youtube.com/watch?v=1xLBo1NFGUE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
