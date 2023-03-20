@@ -105,11 +105,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [UV Lume or Afterglow Pigments for watch restoration](https://www.youtube.com/watch?v=h6T0b--cmr4)
 - [💰 RARE Expensive Coin 1 ruble USSR, Taras Hryhorovych Shevchenko, 1989](https://www.youtube.com/watch?v=yx4e9-jPKz0)
 - [🕰 Restoration of a Vintage Slava - 2427](https://www.youtube.com/watch?v=Hk7sBvEjsUY)
 - [😍 WOW! Tie Shoelaces 😍](https://www.youtube.com/watch?v=E1uPePdJH54)
 - [💡👀 BEAUTIFUL to tie Shoelaces ASMR. Life-hack shoes lace styles | cool shoe laces](https://www.youtube.com/watch?v=5HW0mmZiZOU)
-- [🕰 Revive Your Watch with Fiber Pencil Cleaning - Here&#39;s How!](https://www.youtube.com/watch?v=Qj2clwaEoPc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
