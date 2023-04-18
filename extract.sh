@@ -33,7 +33,7 @@ function extract {
             return 1
         fi
 
-        case "${n##*.}" in
+        case "$n" in
           *.cbt|*.tar.bz2|*.tar.gz|*.tar.xz|*.tbz2|*.tgz|*.txz|*.tar)
                        tar xvf -p "$n"    ;;
           *.lzma)      unlzma ./"$n"      ;;
