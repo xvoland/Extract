@@ -105,11 +105,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Unlocking the Secret: How Electronics Engineers Identify Microchips](https://www.youtube.com/watch?v=ehQuMBrigNo)
+- [🛠 Electronics Hack: Quick and Easy Way to Identify Microchips](https://www.youtube.com/watch?v=ABZVFlRU6sY)
 - [💡  Grow Avocado and Mango at Home #shorts](https://www.youtube.com/watch?v=BM0uqYazigI)
 - [ FCPX Uninstall 3D LUT Creator Plugin. Remove plugin Fx3DLUTCreator from macOS](https://www.youtube.com/watch?v=umIaHB-8icE)
 - [🤮🤮🤮 Be a Plumber!](https://www.youtube.com/watch?v=nqwZcY7fbH0)
-- [💡 AGE AT THE HEARING. How old are you?](https://www.youtube.com/watch?v=QSFkzy00-54)
-- [🛠 Repair Macbook Pro Retina A1398 Radiator screws come off](https://www.youtube.com/watch?v=cdR5DwWqwTs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
