@@ -105,11 +105,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [💡 ASMR Close-Up Marker Pencil. Macro Videos](https://www.youtube.com/watch?v=tDKiUnk9QXo)
 - [💡 ASMR The Best Close-Up Macro Videos](https://www.youtube.com/watch?v=P8_BWslq1ZY)
 - [Unlocking the Secret: How Electronics Engineers Identify Microchips](https://www.youtube.com/watch?v=ehQuMBrigNo)
 - [🛠 Electronics Hack: Quick and Easy Way to Identify Microchips](https://www.youtube.com/watch?v=ABZVFlRU6sY)
 - [💡  Grow Avocado and Mango at Home #shorts](https://www.youtube.com/watch?v=BM0uqYazigI)
-- [ FCPX Uninstall 3D LUT Creator Plugin. Remove plugin Fx3DLUTCreator from macOS](https://www.youtube.com/watch?v=umIaHB-8icE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
