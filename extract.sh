@@ -33,9 +33,9 @@ function extract {
             return 1
         fi
 
-        case "${n##*.}" in
+        case "${n%,}" in
           *.cbt|*.tar.bz2|*.tar.gz|*.tar.xz|*.tbz2|*.tgz|*.txz|*.tar)
-                       tar xvf -p "$n"    ;;
+                       tar xvf "$n"       ;;
           *.lzma)      unlzma ./"$n"      ;;
           *.bz2)       bunzip2 ./"$n"     ;;
           *.cbr|*.rar) unrar x -ad ./"$n" ;;
