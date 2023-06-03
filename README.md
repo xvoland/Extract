@@ -105,11 +105,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [💡👀  Slowdown How To the BEST WAY to tie shoelaces nicely. Life hack shoes lace styles](https://www.youtube.com/watch?v=UgKhcn5nLFY)
+- [💡👀 EASY &amp; Beautiful way to tie Shoelaces  Life hack shoes lace styles | cool shoe laces shorts](https://www.youtube.com/watch?v=q8vyuzK2mfE)
 - [ Apple WWDC 2023 Event June 5 at 10:00 am](https://www.youtube.com/watch?v=RTU-LGlJLJU)
 - [AI Animation Marble Monument Dancing](https://www.youtube.com/watch?v=FGF1ntb61To)
 - [AI Marble Statue Dancing. VFX StableDiffusion Animation](https://www.youtube.com/watch?v=xbGlQmq0wcc)
-- [💡 AI Restored Portrait of Boghdan Khmelnickij &lpar;Bohdan Zynovii Mykhailovych Khmelnytskyi&rpar;](https://www.youtube.com/watch?v=rfjZTvONrOg)
-- [ macOS A1111 in Photoshop Plugin — How To Install Plug-in Auto Photoshop SD Plugin Guide](https://www.youtube.com/watch?v=J5yFgUMhwiw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
