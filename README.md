@@ -105,11 +105,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [💡 Did you know? What a Nail Clipper has Safe Mode](https://www.youtube.com/watch?v=kH7rqprN3eg)
 - [💡  How to Scissors Sharpened with Zero Effort - Unbelievable Hack! DIY Lifehack Tips](https://www.youtube.com/watch?v=pKJxb9NhUZI)
 - [Ladybug Looking For Food](https://www.youtube.com/watch?v=6ju5CcmgSKQ)
 - [💡  BEST Stickerbomb a Laptop MacBook Pro using the stickers and decals](https://www.youtube.com/watch?v=hiyilkSPyUQ)
 - [💡  ASMR I bought 100pcs stickers and reviewing. Review.](https://www.youtube.com/watch?v=tjon5PLlXEk)
-- [💡👀  Slowdown How To the BEST WAY to tie shoelaces nicely. Life hack shoes lace styles](https://www.youtube.com/watch?v=UgKhcn5nLFY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
