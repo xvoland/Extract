@@ -105,11 +105,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [💡  BEST Secret of AAA Battery. Lifehacks](https://www.youtube.com/watch?v=5tcL1DTNP_g)
 - [💡 AI StableDiffusion - Sketch Colouring. Tutorial Automatic111](https://www.youtube.com/watch?v=04yHfKPzr1A)
 - [💡 Tubes Optical Illusion. Always gray circle in the center](https://www.youtube.com/watch?v=S6ZsNeve69w)
 - [💡 Morus or Mulberry. Very sweet and tasty](https://www.youtube.com/watch?v=rbjtSCYwGnE)
 - [😱 Fresh Bread](https://www.youtube.com/watch?v=Jju2AGylIJA)
-- [💡 Did you know? What a Nail Clipper has Safe Mode](https://www.youtube.com/watch?v=kH7rqprN3eg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
