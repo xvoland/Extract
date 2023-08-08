@@ -105,11 +105,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [💡 1h Flip Clock Screensaver Timer Countdown 60 minutes](https://www.youtube.com/watch?v=7C0IOvB48BY)
 - [💡  Unveiling the BEST Secret of AAA Battery - You Won&#39;t Believe These Lifehacks!](https://www.youtube.com/watch?v=5tcL1DTNP_g)
 - [💡 AI StableDiffusion - Sketch Colouring. Tutorial Automatic111](https://www.youtube.com/watch?v=04yHfKPzr1A)
 - [💡 Tubes Optical Illusion. Always gray circle in the center](https://www.youtube.com/watch?v=S6ZsNeve69w)
 - [💡 Morus or Mulberry. Very sweet and tasty](https://www.youtube.com/watch?v=rbjtSCYwGnE)
-- [😱 Fresh Bread](https://www.youtube.com/watch?v=Jju2AGylIJA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
