@@ -105,11 +105,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [💡 2D Line Art StableDiffusion Prompt Tutorial](https://www.youtube.com/watch?v=EMMUHMJyqW0)
 - [💡  Flip Clock Online](https://www.youtube.com/watch?v=GbBvZ08JSLU)
 - [💡  PM 12:01 - 23:59h Flip Clock Screensaver Time Countdown 12h](https://www.youtube.com/watch?v=XxiZRR0VTlI)
 - [💡  WORK 09:01 - 21:00h Flip Clock Screensaver Time Countdown 12h](https://www.youtube.com/watch?v=edSW2wGz7vE)
 - [💡  AM 00:00 - 12:00 h Flip Clock Screensaver Time Countdown](https://www.youtube.com/watch?v=LtztaUcp-D0)
-- [💡 8h Flip Clock Screensaver Timer Countdown 480 minutes](https://www.youtube.com/watch?v=gR28PtXPN88)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
