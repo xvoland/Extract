@@ -105,11 +105,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [ Apple iPhone15 and iOS17 Budanov](https://www.youtube.com/watch?v=8Q5Dp_Ggtes)
 - [Grow Baby Mango and 4 month old Avocado](https://www.youtube.com/watch?v=5vE0cwTKwnY)
 - [🤯 Fake $100 ? Check! #money #dollars #fake](https://www.youtube.com/watch?v=BL2KS8V9WDY)
 - [⭐ FAKE $100 or NOT?](https://www.youtube.com/watch?v=hNKSTewjZJQ)
 - [Apple September Event 2023 #Apple #appleevent2023 #screensaver](https://www.youtube.com/watch?v=xfFzBYlxS9o)
+- [💡 2D Line Art StableDiffusion Prompt Tutorial](https://www.youtube.com/watch?v=EMMUHMJyqW0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
