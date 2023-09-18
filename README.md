@@ -105,11 +105,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [AI Art Lookbook - She | Stable Diffusion](https://www.youtube.com/watch?v=4YgCCS3fgxE)
+- [🖼️ AI Art Lookbook - Warhammer 40000 | Stable Diffusion](https://www.youtube.com/watch?v=D9A70Vr2TW8)
+- [🖼️  AI Art Lookbook - She | Stable Diffusion](https://www.youtube.com/watch?v=4YgCCS3fgxE)
 - [ iPhone BLE spoofing](https://www.youtube.com/watch?v=uANAANsOoiY)
 - [ Hack iPhone BLE Bluetooth on iOS 16.6.1](https://www.youtube.com/watch?v=4odydT1Isvc)
 - [Grow Baby Mango and 4 month old Avocado](https://www.youtube.com/watch?v=5vE0cwTKwnY)
-- [🤯 Fake $100 ? Check! #money #dollars #fake](https://www.youtube.com/watch?v=BL2KS8V9WDY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
