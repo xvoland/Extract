@@ -105,11 +105,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [👻 🪄 Interactive Magic! #magic #magician](https://www.youtube.com/watch?v=wshOqO1EIz0)
 - [👻 🪄 Secret of the Magical Travel Ring! Interactive magic!](https://www.youtube.com/watch?v=BHwJWQsKTlo)
 - [🌱🌞🍊 Grew a Tropical Mango Tree in the Heart of Europe!](https://www.youtube.com/watch?v=1bFQ93R7Tgc)
 - [Epic Rat and Apple CCTV](https://www.youtube.com/watch?v=r-wXNfAYkUI)
 - [🖼️ AI Art Lookbook - Warhammer 40000 | Stable Diffusion](https://www.youtube.com/watch?v=D9A70Vr2TW8)
-- [🖼️  AI Art Lookbook - She | Stable Diffusion](https://www.youtube.com/watch?v=4YgCCS3fgxE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
