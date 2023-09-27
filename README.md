@@ -105,7 +105,7 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [ FIX macOS Sonoma - NO INTERNET after upgrade](https://www.youtube.com/watch?v=WOnDf6ZeAcw)
+- [ FIX macOS Sonoma - NO INTERNET after upgrade](https://www.youtube.com/watch?v=FoZv59w6AdU)
 - [👻 🪄 Interactive Magic! #magic #magician](https://www.youtube.com/watch?v=wshOqO1EIz0)
 - [👻 🪄 Secret of the Magical Travel Ring! Interactive magic!](https://www.youtube.com/watch?v=BHwJWQsKTlo)
 - [🌱🌞🍊 Grew a Tropical Mango Tree in the Heart of Europe!](https://www.youtube.com/watch?v=1bFQ93R7Tgc)
