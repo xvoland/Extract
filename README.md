@@ -105,11 +105,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [💡 Toothbrush Hygiene](https://www.youtube.com/watch?v=QkAp1G-wzLg)
-- [💡 Toothbrush Hygiene. 99.9% Bacteria Will Die. Disinfect Your Toothbrush.](https://www.youtube.com/watch?v=fsf-vU9zPKU)
-- [💡 ASMR Close-Up Marker Pencil. Macro Videos](https://www.youtube.com/watch?v=tDKiUnk9QXo)
-- [💡 ASMR The Best Close-Up Macro Videos. Pen. Pencil. Marker. Corrector pen.](https://www.youtube.com/watch?v=P8_BWslq1ZY)
-- [Unlocking the Secret: How Electronics Engineers Identify Microchips](https://www.youtube.com/watch?v=ehQuMBrigNo)
+- [Homemade Grape Wine 🍷 Let’s make Air Cup | Easy Making #redwine #healthy #grapewine](https://www.youtube.com/watch?v=IXJmxNRde90)
+- [ FIX macOS Sonoma - NO INTERNET after upgrade](https://www.youtube.com/watch?v=FoZv59w6AdU)
+- [👻 🪄 Interactive Magic! #magic #magician](https://www.youtube.com/watch?v=wshOqO1EIz0)
+- [👻 🪄 Secret of the Magical Travel Ring! Interactive magic!](https://www.youtube.com/watch?v=BHwJWQsKTlo)
+- [🌱🌞🍊 Grew a Tropical Mango Tree in the Heart of Europe!](https://www.youtube.com/watch?v=1bFQ93R7Tgc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
