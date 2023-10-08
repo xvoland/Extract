@@ -56,6 +56,7 @@ function extract {
                             mv ./"$n.tmp" ./"${n%.*zlib}" && rm -f "$n"   ;;
           *.dmg)
                       hdiutil mount ./"$n" -mountpoint "./$n.mounted" ;;
+          *.tar.zst)  tar -I zstd -xvf ./"$n"  ;;
           *.zst)      zstd -d ./"$n"  ;;
           *)
                       echo "extract: '$n' - unknown archive method"
