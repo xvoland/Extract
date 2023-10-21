@@ -105,8 +105,8 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [💡 BEST AI Prompts for A1111 Stable Diffusion #2](https://www.youtube.com/watch?v=FRy0POdzeI4)
-- [💡 BEST AI Prompts A1111 Stable Diffusion #1](https://www.youtube.com/watch?v=sF2R70QXfb8)
+- [💡 BEST AI Prompts for A1111 Stable Diffusion #2 Lookbook](https://www.youtube.com/watch?v=FRy0POdzeI4)
+- [💡 BEST AI Prompts A1111 Stable Diffusion #1 Lookbook](https://www.youtube.com/watch?v=sF2R70QXfb8)
 - [💡 BEST AI Prompts #1 #stablediffusion #ai #aiprompt](https://www.youtube.com/watch?v=QeEG5bSYsrA)
 - [💡 Incredible Needle - Threading Hack #needlework #diy #lifehacks](https://www.youtube.com/watch?v=03RPeGY-asM)
 - [Homemade Grape Wine 🍷 Let’s make Air Cup | Easy Making #redwine #healthy #grapewine](https://www.youtube.com/watch?v=IXJmxNRde90)
