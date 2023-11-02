@@ -79,7 +79,7 @@ Regardless of whether funding is obtained or not, I will persist in refining the
 <br />
 
 
-## Sponsors
+## ⚠️ Sponsors
 Extract community? Help us keep it alive by donating funds to cover project expenses!
 
 [Become a sponsor][opencollective]
@@ -87,12 +87,12 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 [<img src="https://opencollective.com/extract/backers/0/avatar">][opencollective]
 <br />
 
-## License
+## ⛔ License
 &copy; 2013, [Vitalii Tereshchuk][home] via MIT license.
 <br />
 
 ## Other
-### Connect with me:
+### ☎️  Connect with me:
 
 [<img align="left" alt="xVoLAnD" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][home]
 [<img align="left" alt="xvoland | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
