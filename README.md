@@ -1,4 +1,5 @@
-
+<p align="right"><img align="center" src="https://raw.githubusercontent.com/xvoland/xvoland/main/images/qr_shuffle-files.png" alt="DOTOCA Ltd." height="50" width="50" /></a>
+</p>
 
 Command/function `extract` in your console
 =================================
