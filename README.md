@@ -109,11 +109,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Halloween 2023 Illusion](https://www.youtube.com/watch?v=_jsyy0Y-lxw)
 - [💡 BEST AI Prompts #4 - SDXL Apocalyptic landscape and human robots #Lookbook](https://www.youtube.com/watch?v=fiTKD25pIoE)
 - [💡 BEST AI Prompts #3 - Apocalyptic landscape and human robots #Lookbook](https://www.youtube.com/watch?v=Vy410CG0D7U)
 - [💡 BEST AI Prompts for A1111 Stable Diffusion #2 Lookbook](https://www.youtube.com/watch?v=FRy0POdzeI4)
 - [💡 BEST AI Prompts A1111 Stable Diffusion #1 Lookbook](https://www.youtube.com/watch?v=sF2R70QXfb8)
-- [💡 BEST AI Prompts #1 #stablediffusion #ai #aiprompt](https://www.youtube.com/watch?v=QeEG5bSYsrA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
