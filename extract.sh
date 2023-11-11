@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # function Extract for common file formats
 #
 # This is a Bash function called "extract" that is designed to extract a variety of file formats.
