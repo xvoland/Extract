@@ -109,11 +109,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Homemade Grape Wine 🍷 Let’s make Air Cup | Easy Making #redwine #healthy #grapewine](https://www.youtube.com/watch?v=IXJmxNRde90)
-- [ FIX macOS Sonoma - NO INTERNET after upgrade](https://www.youtube.com/watch?v=FoZv59w6AdU)
-- [👻 🪄 Interactive Magic! #magic #magician](https://www.youtube.com/watch?v=wshOqO1EIz0)
-- [👻 🪄 Secret of the Magical Travel Ring! Interactive magic!](https://www.youtube.com/watch?v=BHwJWQsKTlo)
-- [🌱🌞🍊 Grew a Tropical Mango Tree in the Heart of Europe!](https://www.youtube.com/watch?v=1bFQ93R7Tgc)
+- [Warhammer - Lookbook Art](https://www.youtube.com/watch?v=rjkNfVPHX2g)
+- [Warhammer 40000 Art Book](https://www.youtube.com/watch?v=8hH6-E_ZYv4)
+- [Halloween 2023 Illusion](https://www.youtube.com/watch?v=_jsyy0Y-lxw)
+- [💡 BEST AI Prompts #4 - SDXL Apocalyptic landscape and human robots #Lookbook](https://www.youtube.com/watch?v=fiTKD25pIoE)
+- [💡 BEST AI Prompts #3 - Apocalyptic landscape and human robots #Lookbook](https://www.youtube.com/watch?v=Vy410CG0D7U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
