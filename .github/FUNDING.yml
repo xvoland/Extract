@@ -1,6 +1,11 @@
 # These are supported funding model platforms
 github: [xvoland]
+<<<<<<< HEAD
 custom: ["https://paypal.me/xvoland", dotoca.net, "https://youtube.com/@xvoland"]
+=======
+patreon: xvoland
+custom: ["https://paypal.me/xvoland", "https://dotoca.net", "https://youtube.com/@xvoland"]
+>>>>>>> dev
 open_collective: extract
 ko_fi: # Replace with a single Ko-fi username
 tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
