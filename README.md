@@ -109,11 +109,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Mini-Diskettes 3,5&quot; HD](https://www.youtube.com/watch?v=gTmKEtYI4m8)
 - [Everything is AI - music, voice, images [realistic AI] | 음악, 음성, 이미지 등 모든 것이 AI입니다.](https://www.youtube.com/watch?v=N70VGKroCdo)
 - [AI Animation - New Year Coming Soon](https://www.youtube.com/watch?v=FWjH7-RpEz8)
 - [Warhammer - Lookbook Art](https://www.youtube.com/watch?v=rjkNfVPHX2g)
 - [Warhammer 40000 Art Book](https://www.youtube.com/watch?v=8hH6-E_ZYv4)
-- [Halloween 2023 Illusion](https://www.youtube.com/watch?v=_jsyy0Y-lxw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
