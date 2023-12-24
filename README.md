@@ -110,7 +110,7 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [[100% MUSIC HIT 2024] Trees In The Forest | MOST POPULAR SONG](https://www.youtube.com/watch?v=HF8WiQwWFiA)
-- [👟🔥 AWESOME! Beautiful shoelace for everyday tying life-hacks | cool shoe laces](https://www.youtube.com/watch?v=pfjTJw7pzdc)
+- [👟🔥 COOLEST! Beautiful Shoelace Style for Everyday life-hacks | tie cool shoe laces](https://www.youtube.com/watch?v=pfjTJw7pzdc)
 - [👟✨ Tighten the Butterfly! Stylish way to tie your shoelaces! Life hack for cool shoe lace styles](https://www.youtube.com/watch?v=RBUQvXWR8L8)
 - [💡 How To Clean iPhone Microphones Or Clean the holes on the phone tips and tricks](https://www.youtube.com/watch?v=HdTdPVmAwZw)
 - [Mini-Diskettes 3,5&quot; HD](https://www.youtube.com/watch?v=gTmKEtYI4m8)
