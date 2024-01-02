@@ -109,7 +109,7 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Stepan Andriyovych Bandera](https://www.youtube.com/watch?v=txrGKPzwWWg)
+- [Stepan Andriyovych Bandera — AI photo restoration](https://www.youtube.com/watch?v=txrGKPzwWWg)
 - [💡 Quick Sprat Cleaning Method. Two Forks and a Sprat! #cooking #food](https://www.youtube.com/watch?v=L1PXR0DARPw)
 - [[100% MUSIC HIT 2024] Trees In The Forest | MOST POPULAR SONG](https://www.youtube.com/watch?v=HF8WiQwWFiA)
 - [👟🔥 COOLEST! Beautiful Shoelace Style for Everyday life-hacks | tie cool shoe laces](https://www.youtube.com/watch?v=pfjTJw7pzdc)
