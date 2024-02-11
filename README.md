@@ -109,11 +109,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [MIM 104 Patriot Ukrainian Coin 10 UAH](https://www.youtube.com/watch?v=r4Cnd0tB0iQ)
 - [Pike #pike #pikefishing #fish](https://www.youtube.com/watch?v=-JNuh-4l4gQ)
 - [🔥👟 My Top 10 Trendy Shoelace Hacks to Amp Up Your Style! 💯 Life Hacks for Trendy Shoe Lacing](https://www.youtube.com/watch?v=N9xCn9nAcrc)
 - [🌟👟 11 NEW How to tie shoelaces. Creative ways to tie shoelaces | Shoes lace styles | lifehacks](https://www.youtube.com/watch?v=mq0B0umtJf4)
 - [💡👀 Bias Lacing - Useful way to tie Shoelaces  Life hack shoes lace styles | cool shoe laces](https://www.youtube.com/watch?v=0LimcPivwAg)
-- [Sugess Pilot Watch ST1906 | ST1901 V2 &amp; History of Chronograph with Venus 175 movement](https://www.youtube.com/watch?v=fUs9JxbRWT8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
