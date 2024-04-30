@@ -109,11 +109,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [ Fix Mouse Toggle on Firestick | Fire TV Lite with macOS Apple](https://www.youtube.com/watch?v=xJIqc9dbN88)
 - [iPhone iOS Photography Tips &amp; Tricks | Photo Camera mode start to make video](https://www.youtube.com/watch?v=Zrah47kr1x0)
 - [iOS Emoji Trick Super Function from Apple iOS](https://www.youtube.com/watch?v=d1-FrBWoLxE)
 - [💡 Photoshop Open ARW. How to open ARW files in Adobe Photoshop 2023 or 2024](https://www.youtube.com/watch?v=H3BWh7T3aww)
 - [Lifehacks. Detergent Bottle. Don&#39;t throw away your shampoo bottle #shorts #shortvideo](https://www.youtube.com/watch?v=lgGlffbOYiY)
-- [MIM 104 Patriot Ukrainian Coin 10 UAH](https://www.youtube.com/watch?v=r4Cnd0tB0iQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
