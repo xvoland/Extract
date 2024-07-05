@@ -109,11 +109,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🛠 QCY headphones. Battery Replacement guide](https://www.youtube.com/watch?v=ePrKIcYn4_g)
 - [10 UAH Coins - State Special Transport Service](https://www.youtube.com/watch?v=Zc7HtRpNmbo)
 - [Fruits Under Macro](https://www.youtube.com/watch?v=7O-mFpQ220E)
 - [How to Charge a Deep Discharged Car Battery?](https://www.youtube.com/watch?v=qW6I3n8kZ5M)
 - [🛠 How to Charge a Deep Discharged Car Battery? Guide. Tips and Tricks](https://www.youtube.com/watch?v=kdUsKVQnB2I)
-- [🕰 Repair Watch Yantar or Jantar or Янтарь 65181 GR2.815.039 K264GF1 USSR](https://www.youtube.com/watch?v=WlTLJ5uBP2k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
