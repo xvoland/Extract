@@ -85,7 +85,7 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 ### Crypto
 
-**BTC (ERC20):** 0x17496b75d241d377334717f8cbc16cc1a5b80396
+**BTC (ERC20):** 0x17496b75d241d377334717f8cbc16cc1a5b80396<br />
 **USDT (TRC20):** TAAsGXjNoQRJ7ewxSBL2W3DUCoG7h8LCT6
 
 ### Other
