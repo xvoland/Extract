@@ -22,6 +22,8 @@ Before running the function, the value of the Internal Field Separator (IFS) is 
 
 Overall, this function provides a convenient way to extract a wide variety of archive formats using a single command, simplifying and streamlining the extraction process.
 
+
+<br /><br />
 How to install (macOS)
 -------------------------
 
@@ -54,8 +56,7 @@ curl -L -o install_extract.sh https://raw.githubusercontent.com/xvoland/Extract/
 Copy&Paste function into file `~/.bashrc`
 
 
-
-
+<br /><br />
 How to Use the Installer
 -------------
 
@@ -81,7 +82,7 @@ chmod +x install_extract.sh
 ```
 
 
-
+<br /><br />
 How it use
 ----------
 
