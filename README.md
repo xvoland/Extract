@@ -54,10 +54,33 @@ curl -L -o install_extract.sh https://raw.githubusercontent.com/xvoland/Extract/
 Copy&Paste function into file `~/.bashrc`
 
 
-I use hosting
+
+
+How to Use the Installer
 -------------
 
-[My hosting here][hosting]
+Copy the above code into a file, for example, install_extract.sh.
+
+#### Download:
+
+```bash
+git clone https://github.com/xvoland/Extract.git
+cd Extract
+```
+
+#### Make the script executable:
+
+```bash
+chmod +x install_extract.sh
+```
+
+#### Run the script:
+
+```bash
+./install_extract.sh
+```
+
+
 
 How it use
 ----------
@@ -139,5 +162,4 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 [paypal]: https://paypal.me/xvoland
 [youtube]: https://youtube.com/xvoland
 [instagram]: https://www.instagram.com/xvoland/
-[hosting]: https://goo.gl/3KpxQI
 [opencollective]: https://opencollective.com/extract/backers/0/website
