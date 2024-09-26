@@ -34,8 +34,14 @@ function extract {
         fi
 
         case "${n%,}" in
-          *.cbt|*.tar.bz2|*.tar.gz|*.tar.xz|*.tbz2|*.tgz|*.txz|*.tar)
-                       tar zxvf "$n"       ;;
+            *.cbt|*.tar.bz2|*.tar.gz|*.tar.xz|*.tbz2|*.tgz|*.txz|*.tar)
+                # Check if it's a gzipped tar file or just a tar file
+                if [[ "$n" == *.tar.gz || "$n" == *.tgz ]]; then
+                    tar zxvf "$n"
+                else
+                    tar xvf "$n"
+                fi
+                ;;
           *.lzma)      unlzma ./"$n"      ;;
           *.bz2)       bunzip2 ./"$n"     ;;
           *.cbr|*.rar) unrar x -ad ./"$n" ;;
