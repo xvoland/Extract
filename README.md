@@ -36,7 +36,16 @@ add command into file `~/.bash_profile` or `~/.zshrc` or `~/.functions`
 export PATH=<path_to_file>/extract.sh:$PATH
 ```
 
+```bash
+source <path_to_file>/extract.sh
+```
+
 So don't delay, update your `~/.bash_profile` today and supercharge your file management capabilities!
+
+or
+```bash
+curl -L -o install_extract.sh https://raw.githubusercontent.com/xvoland/Extract/master/install_extract.sh && bash install_extract.sh && rm install_extract.sh
+```
 
 <br />
 
