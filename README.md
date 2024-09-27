@@ -149,11 +149,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Test Human Lungs](https://www.youtube.com/watch?v=AVCS3tARVuI)
 - [🙈 Emoji Kitchen | Make Emoji Cool On Your Phone](https://www.youtube.com/watch?v=H1CSRdz1Q-8)
 - [💡👀🪢  Knot - Double Back. Useful knot tying techniques](https://www.youtube.com/watch?v=yj63cRi7ezo)
 - [Mango and Avocado at Home. 6 months later in Ukraine](https://www.youtube.com/watch?v=qWZ7j34-UFQ)
 - [🔥👟 Fish Back Knot. How To Tie Knots Tutorial.](https://www.youtube.com/watch?v=vC8rHM9Exo8)
-- [🛠 QCY headphones. Battery Replacement guide](https://www.youtube.com/watch?v=ePrKIcYn4_g)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
