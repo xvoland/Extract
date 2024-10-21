@@ -149,11 +149,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [AI Avatar Demo](https://www.youtube.com/watch?v=EJhAssYHNNI)
 - [ iPhone More Protection Against Theft  iOS18 Stolen Device Protection](https://www.youtube.com/watch?v=I4pHVACAEYs)
 - [NO LUT. Vintage Nikon D3100 DSLR as movie cam. Test Cinematic Look](https://www.youtube.com/watch?v=KQkXScIb0rk)
 - [Test Human Lungs](https://www.youtube.com/watch?v=AVCS3tARVuI)
 - [🙈 Emoji Kitchen | Make Emoji Cool On Your Phone](https://www.youtube.com/watch?v=H1CSRdz1Q-8)
-- [💡👀🪢  Knot - Double Back. Useful knot tying techniques](https://www.youtube.com/watch?v=yj63cRi7ezo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
