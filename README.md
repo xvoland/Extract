@@ -149,11 +149,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🔥 Lifehack Of Open a Sealed Tube. Did You Know?](https://www.youtube.com/watch?v=YlD9b6KnfdM)
 - [💰 UAH 10 coins 2024 Ukraine’s New Medical Forces Coin. What is the price of the coin?](https://www.youtube.com/watch?v=qdtfhG7LqXg)
 - [AI Avatar Demo](https://www.youtube.com/watch?v=EJhAssYHNNI)
 - [ iPhone More Protection Against Theft  iOS18 Stolen Device Protection](https://www.youtube.com/watch?v=I4pHVACAEYs)
 - [NO LUT. Vintage Nikon D3100 DSLR as movie cam. Test Cinematic Look](https://www.youtube.com/watch?v=KQkXScIb0rk)
-- [Test Human Lungs](https://www.youtube.com/watch?v=AVCS3tARVuI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
