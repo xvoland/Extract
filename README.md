@@ -149,11 +149,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [ AirDrop Missing on macOS Sequoia? Easy Fix for Finder and AirDrop Issues!](https://www.youtube.com/watch?v=Baj8RbF_cTA)
 - [Review UGREEN HiTune H6 Pro Earbuds 2024 Best Black Friday Deal: Hi-Res Wireless Headphones ANC LDAC](https://www.youtube.com/watch?v=2NksaUJAU8I)
 - [⚒️ How to Fix Drawer Slides with Ball Bearings – Easy DIY Guide. Lifetime guarantee](https://www.youtube.com/watch?v=VuP4gkVt_-0)
 - [🔥 Lifehack Of Open a Sealed Tube. Did You Know?](https://www.youtube.com/watch?v=YlD9b6KnfdM)
 - [💰 UAH 10 coins 2024 Ukraine’s New Medical Forces Coin. What is the price of the coin?](https://www.youtube.com/watch?v=qdtfhG7LqXg)
-- [AI Avatar Demo](https://www.youtube.com/watch?v=EJhAssYHNNI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
