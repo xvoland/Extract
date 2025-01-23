@@ -100,7 +100,7 @@ $ extract <archive_filename_1.extention> <archive_filename_2.extention> <archive
 
 ### Donation
 
-Regardless of whether funding is obtained or not, I will persist in refining the script's capabilities because it brings me joy to witness people using it and achieving their goals. However, I would be grateful for any support you could offer in offsetting the costs of hosting the domain and the time spent programming, which would otherwise encroach on my precious family time.
+No matter what, I’ll keep working on improving the app because I love seeing people benefit from it and achieve their goals. But even a $1 donation can make a big impact. It helps cover essentials like hosting costs and the time I dedicate to coding. Your support would be incredibly appreciated and would mean so much to me. Thank you!
 
 [Donate any amount for my projects][paypal]
 
