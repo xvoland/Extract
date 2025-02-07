@@ -149,7 +149,7 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [🔥⚒️ SSD Thermal Throttling. Portable SSD for iPhone and Macbook SSD WD SN740 SanDisk](https://www.youtube.com/watch?v=xCbyha6r6AQ)
+- [🔥⚒️ Fix SSD Overheating! Portable SSD for iPhone &amp; MacBook | WD SN740 SanDisk NVMe Heatsink](https://www.youtube.com/watch?v=xCbyha6r6AQ)
 - [🔥 JEYI Portable SSD for iPhone and Macbook SSD WD SN740 SanDisk](https://www.youtube.com/watch?v=W95FH96LKns)
 - [👀 WONLINK 1200Mb WL-NE3501 wireless repeater 802.11bgnac 1200 Megabits](https://www.youtube.com/watch?v=FEk1HdZMX2g)
 - [ AirDrop Missing on macOS Sequoia? Easy Fix for Finder and AirDrop Issues!](https://www.youtube.com/watch?v=Baj8RbF_cTA)
