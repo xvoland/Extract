@@ -149,11 +149,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🤯 20 Grains - Funny Maths Trick Task](https://www.youtube.com/watch?v=qnIP3zK4cyw)
 - [🔥⚒️ Fix SSD Overheating! Portable SSD for iPhone &amp; MacBook | WD SN740 SanDisk NVMe Heatsink](https://www.youtube.com/watch?v=xCbyha6r6AQ)
 - [🔥 JEYI Portable SSD for iPhone and Macbook SSD WD SN740 SanDisk](https://www.youtube.com/watch?v=W95FH96LKns)
 - [👀 WONLINK 1200Mb WL-NE3501 wireless repeater 802.11bgnac 1200 Megabits](https://www.youtube.com/watch?v=FEk1HdZMX2g)
 - [ AirDrop Missing on macOS Sequoia? Easy Fix for Finder and AirDrop Issues!](https://www.youtube.com/watch?v=Baj8RbF_cTA)
-- [👀 Review UGREEN HiTune H6 Pro Earbuds 2024 Best Deal: Hi-Res Wireless Headphones ANC LDAC](https://www.youtube.com/watch?v=2NksaUJAU8I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
