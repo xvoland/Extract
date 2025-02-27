@@ -149,11 +149,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [ Open WebUI on macOS - 500 Internal Server Error](https://www.youtube.com/watch?v=o27YivGfE2w)
 - [Ukrainian Trident Liquid like the logo presentation of the new Apple iPhone 16e](https://www.youtube.com/watch?v=cytfVpT3Vp8)
 - [🫥 Amazing Maths Trick - 20 Grains. #shorts #shortvideo](https://www.youtube.com/watch?v=CIeWMRxcKi4)
 - [🤯 20 Grains - Funny Maths Trick Task](https://www.youtube.com/watch?v=qnIP3zK4cyw)
 - [🔥⚒️ Fix SSD Overheating! Portable SSD for iPhone &amp; MacBook | WD SN740 SanDisk NVMe Heatsink](https://www.youtube.com/watch?v=xCbyha6r6AQ)
-- [🔥 JEYI Portable SSD for iPhone and Macbook SSD WD SN740 SanDisk](https://www.youtube.com/watch?v=W95FH96LKns)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
