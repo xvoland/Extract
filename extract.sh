@@ -19,7 +19,7 @@
 
 
 SAVEIFS=$IFS
-IFS="$(printf '\n\t')"
+IFS=$' \t\n'
 
 function extract {
  if [ $# -eq 0 ]; then
