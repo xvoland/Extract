@@ -59,11 +59,13 @@ function extract {
           *.cso)       ciso 0 ./"$n" ./"$n.iso" && \
                             extract "$n.iso" && \rm -f "$n" ;;
           *.zlib)      zlib-flate -uncompress < ./"$n" > ./"$n.tmp" && \
-                            mv ./"$n.tmp" ./"${n%.*zlib}" && rm -f "$n"   ;;
+                       mv ./"$n.tmp" ./"${n%.*zlib}" && rm -f "$n"   ;;
           *.dmg)
-                      hdiutil mount ./"$n" -mountpoint "./$n.mounted" ;;
-          *.tar.zst)  tar -I zstd -xvf ./"$n"  ;;
-          *.zst)      zstd -d ./"$n"  ;;
+                        mnt_dir=$(mktemp -d)
+                        hdiutil mount "$n" -mountpoint "$mnt_dir"
+                        echo "Mounted at: $mnt_dir" ;;
+          *.tar.zst)    tar -I zstd -xvf ./"$n"  ;;
+          *.zst)        zstd -d ./"$n"  ;;
           *)
                       echo "extract: '$n' - unknown archive method"
                       return 1
