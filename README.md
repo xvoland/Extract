@@ -81,6 +81,13 @@ chmod +x install_extract.sh
 ./install_extract.sh
 ```
 
+or
+
+```bash
+./install_extract_func.sh
+```
+
+
 
 <br /><br />
 How it use
