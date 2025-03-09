@@ -1,0 +1,38 @@
+# ==== Format ====
+# <Emoji> <Title>
+#
+# Author: Vitalii Tereshchuk
+# URL:    https://dotoca.net
+#
+# ==== EMOJIS ====
+# Bug fixes
+# :bug: # 🐛 Major bug fixes
+# :adhesive_bandage: # 🩹 Minor bug fixes
+#
+# Feature additions
+# :tada: # 🎉 Major changes to be commemorated, major version release level
+# :sparkles: # ✨ New features added, new modules added, etc.
+#
+# Feature improvements
+# :zap: # ⚡️ Performance improvements
+# :+1: # 👍 Improvements to existing features
+#
+# Code quality
+# :refactor: # ♻️ Refactoring, design improvements, eliminating technical debt
+# :fire: # 🔥 Removal of unnecessary or obsolete features
+#
+# Tests
+# :white_check_mark: # ✅ Adding or updating tests
+# :green_heart: # 💚 Fix CI pipeline failures etc.
+#
+# Dependencies
+# :arrow_up: # 🆙 Update dependencies
+# :arrow_up: # 📦 Add packages
+# :wastebasket: # 🗑️ Remove packages
+#
+# Configuration
+# :wrench: # 🔧 Change configuration files
+#
+# Documentation
+# :memo: # 📝 Update documentation
+# :bulb: # 💡 Improve comments
