@@ -28,6 +28,8 @@ function extract {
         # display usage if no parameters given
         echo "Usage: extract <path/file_name>.<zip|rar|bz2|gz|tar|tbz2|tgz|Z|7z|xz|ex|tar.bz2|tar.gz|tar.xz|.zlib|.cso|.zst>"
         echo "       extract <path/file_name_1.ext> [path/file_name_2.ext] [path/file_name_3.ext]"
+
+        return 1
     fi
 
     for n in "$@"; do
@@ -38,13 +40,13 @@ function extract {
 
         case "${n%,}" in
             *.cbt|*.tar.bz2|*.tar.gz|*.tar.xz|*.tbz2|*.tgz|*.txz|*.tar)
-                # Check if it's a gzipped tar file or just a tar file
-                if [[ "$n" == *.tar.gz || "$n" == *.tgz ]]; then
-                    tar zxvf "$n"
-                else
-                    tar xvf "$n"
-                fi
-                ;;
+                    # Check if it's a gzipped tar file or just a tar file
+                       if [[ "$n" == *.tar.gz || "$n" == *.tgz ]]; then
+                           tar zxvf "$n"
+                       else
+                           tar xvf "$n"
+                       fi
+                       ;;
         *.lzma)        unlzma ./"$n"      ;;
         *.bz2)         bunzip2 ./"$n"     ;;
         *.cbr|*.rar)   unrar x -ad ./"$n" ;;
