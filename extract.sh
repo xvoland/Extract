@@ -17,6 +17,7 @@
 # Web:    https://dotoca.net
 # Github: https://github.com/xvoland/Extract/blob/master/extract.sh
 
+set -e  # abort execution on errors
 
 SAVEIFS=$IFS
 IFS=$' \t\n'
