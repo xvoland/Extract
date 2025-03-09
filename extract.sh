@@ -40,41 +40,32 @@ function extract {
 
         case "${n%,}" in
             *.cbt|*.tar.bz2|*.tar.gz|*.tar.xz|*.tbz2|*.tgz|*.txz|*.tar)
-                    # Check if it's a gzipped tar file or just a tar file
-                       if [[ "$n" == *.tar.gz || "$n" == *.tgz ]]; then
-                           tar zxvf "$n"
-                       else
-                           tar xvf "$n"
-                       fi
-                       ;;
-        *.lzma)        unlzma ./"$n"      ;;
-        *.bz2)         bunzip2 ./"$n"     ;;
-        *.cbr|*.rar)   unrar x -ad ./"$n" ;;
-        *.gz)          gunzip ./"$n"      ;;
-        *.cbz|*.epub|*.zip) unzip ./"$n" ;;
-        *.z)           uncompress ./"$n"  ;;
-        *.7z|*.apk|*.arj|*.cab|*.cb7|*.chm|*.deb|*.iso|*.lzh|*.msi|*.pkg|*.rpm|*.udf|*.wim|*.xar|*.vhd)
-                        7z x ./"$n"        ;;
-        *.xz)           unxz ./"$n"        ;;
-        *.exe)          cabextract ./"$n"  ;;
-        *.cpio)         cpio -id < ./"$n"  ;;
-        *.cba|*.ace)    unace x ./"$n"     ;;
-        *.zpaq)         zpaq x ./"$n"      ;;
-        *.arc)          arc e ./"$n"       ;;
-        *.cso)          ciso 0 ./"$n" ./"$n.iso" && \
-                        extract "$n.iso" && \rm -f "$n" ;;
-        *.zlib)         zlib-flate -uncompress < ./"$n" > ./"$n.tmp" && \
-                        mv ./"$n.tmp" ./"${n%.*zlib}" && rm -f "$n"   ;;
-        *.dmg)
-                        mnt_dir=$(mktemp -d)
-                        hdiutil mount "$n" -mountpoint "$mnt_dir"
-                        echo "Mounted at: $mnt_dir" ;;
-        *.tar.zst)      tar -I zstd -xvf ./"$n"  ;;
-        *.zst)          zstd -d ./"$n"  ;;
-        *)
-                        echo "extract: '$n' - unknown archive method"
-                        return 1
-                        ;;
+                         tar --auto-compress -xvf "$n" ;;
+            *.lzma)      unlzma "$n" ;;
+            *.bz2)       bunzip2 "$n" ;;
+            *.cbr|*.rar) unrar x -ad "$n" ;;
+            *.gz)        gunzip "$n" ;;
+            *.cbz|*.epub|*.zip) unzip "$n" ;;
+            *.z)         uncompress "$n" ;;
+            *.7z|*.apk|*.arj|*.cab|*.cb7|*.chm|*.deb|*.iso|*.lzh|*.msi|*.pkg|*.rpm|*.udf|*.wim|*.xar|*.vhd)
+                         7z x "$n" ;;
+            *.xz)        unxz "$n" ;;
+            *.exe)       cabextract "$n" ;;
+            *.cpio)      cpio -id < "$n" ;;
+            *.cba|*.ace) unace x "$n" ;;
+            *.zpaq)      zpaq x "$n" ;;
+            *.arc)       arc e "$n" ;;
+            *.cso)       ciso 0 "$n" "$n.iso" && extract "$n.iso" && rm -f "$n" ;;
+            *.zlib)      zlib-flate -uncompress < "$n" > "${n%.*zlib}" && rm -f "$n" ;;
+            *.dmg)
+                         mnt_dir=$(mktemp -d)
+                         hdiutil mount "$n" -mountpoint "$mnt_dir"
+                         echo "Mounted at: $mnt_dir" ;;
+            *.tar.zst)  tar -I zstd -xvf "$n" ;;
+            *.zst)      zstd -d "$n" ;;
+            *)
+                echo "extract: '$n' - unknown archive method"
+                continue ;;
         esac
     done
 }
