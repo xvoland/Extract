@@ -43,24 +43,24 @@ function extract {
                     tar xvf "$n"
                 fi
                 ;;
-          *.lzma)      unlzma ./"$n"      ;;
-          *.bz2)       bunzip2 ./"$n"     ;;
-          *.cbr|*.rar) unrar x -ad ./"$n" ;;
-          *.gz)        gunzip ./"$n"      ;;
-          *.cbz|*.epub|*.zip) unzip ./"$n"   ;;
-          *.z)         uncompress ./"$n"  ;;
+          *.lzma)       unlzma ./"$n"      ;;
+          *.bz2)        bunzip2 ./"$n"     ;;
+          *.cbr|*.rar)  unrar x -ad ./"$n" ;;
+          *.gz)         gunzip ./"$n"      ;;
+          *.cbz|*.epub|*.zip) unzip ./"$n" ;;
+          *.z)          uncompress ./"$n"  ;;
           *.7z|*.apk|*.arj|*.cab|*.cb7|*.chm|*.deb|*.iso|*.lzh|*.msi|*.pkg|*.rpm|*.udf|*.wim|*.xar|*.vhd)
-                       7z x ./"$n"        ;;
-          *.xz)        unxz ./"$n"        ;;
-          *.exe)       cabextract ./"$n"  ;;
-          *.cpio)      cpio -id < ./"$n"  ;;
-          *.cba|*.ace) unace x ./"$n"     ;;
-          *.zpaq)      zpaq x ./"$n"      ;;
-          *.arc)       arc e ./"$n"       ;;
-          *.cso)       ciso 0 ./"$n" ./"$n.iso" && \
-                            extract "$n.iso" && \rm -f "$n" ;;
-          *.zlib)      zlib-flate -uncompress < ./"$n" > ./"$n.tmp" && \
-                       mv ./"$n.tmp" ./"${n%.*zlib}" && rm -f "$n"   ;;
+                        7z x ./"$n"        ;;
+          *.xz)         unxz ./"$n"        ;;
+          *.exe)        cabextract ./"$n"  ;;
+          *.cpio)       cpio -id < ./"$n"  ;;
+          *.cba|*.ace)  unace x ./"$n"     ;;
+          *.zpaq)       zpaq x ./"$n"      ;;
+          *.arc)        arc e ./"$n"       ;;
+          *.cso)        ciso 0 ./"$n" ./"$n.iso" && \
+                        extract "$n.iso" && \rm -f "$n" ;;
+          *.zlib)       zlib-flate -uncompress < ./"$n" > ./"$n.tmp" && \
+                        mv ./"$n.tmp" ./"${n%.*zlib}" && rm -f "$n"   ;;
           *.dmg)
                         mnt_dir=$(mktemp -d)
                         hdiutil mount "$n" -mountpoint "$mnt_dir"
@@ -68,9 +68,9 @@ function extract {
           *.tar.zst)    tar -I zstd -xvf ./"$n"  ;;
           *.zst)        zstd -d ./"$n"  ;;
           *)
-                      echo "extract: '$n' - unknown archive method"
-                      return 1
-                      ;;
+                        echo "extract: '$n' - unknown archive method"
+                        return 1
+                        ;;
         esac
     done
 }
