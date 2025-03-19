@@ -109,10 +109,10 @@ $ extract <archive_filename_1.extention> <archive_filename_2.extention> <archive
 
 No matter what, I’ll keep working on improving the app because I love seeing people benefit from it and achieve their goals. But even a $1 donation can make a big impact. It helps cover essentials like hosting costs and the time I dedicate to coding. Your support would be incredibly appreciated and would mean so much to me. Thank you!
 
-[Donate any amount for my projects][paypal]
+<p align="center">
+  <a href="https://paypal.me/xvoland" target="blank"><img align="center" src="https://raw.githubusercontent.com/xvoland/xvoland/main/images/paypal.png" alt="PayPal" width="250" /></a>
+</p>
 
-
-<a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9D4YBRWH8QURU'><img alt='Click here to lend your support to Extractor and make a donation!' src='https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif' border='0' /></a>
 
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xvoland&show_icons=true&theme=radical&hide_border=true)
