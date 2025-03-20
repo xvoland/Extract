@@ -107,7 +107,8 @@ $ extract <archive_filename_1.extention> <archive_filename_2.extention> <archive
 
 ### Donation
 
-No matter what, I’ll keep working on improving the app because I love seeing people benefit from it and achieve their goals. But even a $1 donation can make a big impact. It helps cover essentials like hosting costs and the time I dedicate to coding. Your support would be incredibly appreciated and would mean so much to me. Thank you!
+I’ll keep improving the app no matter what because I love seeing people use it to reach their goals. But if you’d like to support my work, even a $1 donation makes a big difference—it helps cover hosting costs and the time I put into coding. Every little bit helps, and I’d truly appreciate it.
+If you enjoy the my work, consider donating today. Thank you so much! 🙌
 
 <p align="center">
   <a href="https://paypal.me/xvoland" target="blank"><img align="center" src="https://raw.githubusercontent.com/xvoland/xvoland/main/images/paypal.png" alt="PayPal" width="250" /></a>
