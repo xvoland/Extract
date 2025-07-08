@@ -157,11 +157,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Restore Old Photos in 1 Minute Using AI + FREE Online Tool](https://www.youtube.com/watch?v=HdXzf8ucUzA)
 - [Photo Restoration: Free AI Tool Transform Your Old Photos - Instantly!](https://www.youtube.com/watch?v=-hV9mBcCvro)
 - [Stepan Andriyovych Bandera | AI Animation](https://www.youtube.com/shorts/dXi-ZVlqrZI)
 - [The Best Magnetic Tripod for Your Phone? | Compact &amp; Super Easy to Use!](https://www.youtube.com/watch?v=8E1wJ_IC5Rw)
 - [ MP3 Tags of Custom Lyrics for Local Files on Apple Music](https://www.youtube.com/watch?v=ZeZOn37xFXA)
-- [💡 New TYPE-C AA Batteries Are Here – Easy Charging with USB!](https://www.youtube.com/watch?v=yFr2sYPvBeM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
