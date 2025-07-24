@@ -105,6 +105,12 @@ $ extract <archive_filename_1.extention> <archive_filename_2.extention> <archive
 
 <br />
 
+```bash
+$ curl -sL https://.../some_file.tar.gz | extract - tar.gz
+```
+
+<br />
+
 ### Donation
 
 <p>I’ll keep improving the app no matter what because I love seeing people use it to reach their goals. But if you’d like to support my work, even a $1 donation makes a big difference—it helps cover hosting costs and the time I put into coding. Every little bit helps, and I’d truly appreciate it.</p>
