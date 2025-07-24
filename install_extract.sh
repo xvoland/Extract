@@ -2,17 +2,20 @@
 
 # Installer for the extract.sh script
 #
+# Downloads the latest extract.sh, checks dependencies, and installs it system-wide.
+#
 # Example:
-# $ install_extract.sh
+#   $ ./install_extract.sh
 #
 # Author: Vitalii Tereshchuk, 2024
 # Web:    https://dotoca.net
 # Github: https://github.com/xvoland/Extract/blob/master/extract.sh
-#
+
+set -e
 
 TARGET_PATH="/usr/local/bin/extract"
 SCRIPT_URL="https://raw.githubusercontent.com/xvoland/Extract/master/extract.sh"
-TMP_SCRIPT="/tmp/extract.sh"
+TMP_SCRIPT="$(mktemp)"
 
 # Check if 'curl' is installed
 if ! command -v curl &>/dev/null; then
@@ -20,7 +23,7 @@ if ! command -v curl &>/dev/null; then
     exit 1
 fi
 
-# Check if the script is already installed
+# Check for existing installation
 if [ -f "$TARGET_PATH" ]; then
     read -p "$TARGET_PATH already exists. Overwrite? (y/n): " choice
     case "$choice" in
@@ -30,41 +33,51 @@ if [ -f "$TARGET_PATH" ]; then
     esac
 fi
 
-# Download extract.sh script from GitHub
-echo "Downloading extract.sh..."
-if ! curl -L -o "$TMP_SCRIPT" "$SCRIPT_URL"; then
+# Download extract.sh from GitHub
+echo "Downloading extract.sh from GitHub..."
+if ! curl -fsSL -o "$TMP_SCRIPT" "$SCRIPT_URL"; then
     echo "Error: Failed to download extract.sh"
     exit 1
 fi
 
-# List of required tools for extraction
-REQUIRED_TOOLS=("unzip" "tar" "unrar" "gunzip" "7z" "unlzma" "bzip2" "xz" "cabextract" "zstd")
+# Required tools used by extract.sh
+REQUIRED_TOOLS=(
+    "unzip" "tar" "unrar" "gunzip" "7z" "unlzma" "bunzip2" "xz" "cabextract" "zstd" "lz4"
+    "zlib-flate" "cpio" "uncompress" "ciso" "arc" "zpaq" "unace" "hdiutil" "pbzip2"
+)
+
 MISSING_TOOLS=()
 
-# Check if required tools are installed
+# Detect missing tools
 for tool in "${REQUIRED_TOOLS[@]}"; do
     if ! command -v "$tool" &>/dev/null; then
         MISSING_TOOLS+=("$tool")
     fi
 done
 
-# Warn the user about missing tools but continue installation
+# Warn but proceed with installation
 if [ ${#MISSING_TOOLS[@]} -ne 0 ]; then
-    echo "Warning: The following tools are missing, some formats may not be supported:"
-    printf ' - %s\n' "${MISSING_TOOLS[@]}"
+    echo "⚠️  Warning: The following tools are missing and some formats may not be supported:"
+    for t in "${MISSING_TOOLS[@]}"; do
+        echo " - $t"
+    done
+    echo
 fi
 
-# Check if the user has sudo privileges (if not root)
+# Ensure sudo is available if not running as root
 if [ "$(id -u)" -ne 0 ] && ! command -v sudo &>/dev/null; then
-    echo "Error: You need sudo privileges to install the script in $TARGET_PATH."
+    echo "Error: You need sudo privileges to install the script to $TARGET_PATH."
     exit 1
 fi
 
-# Move the script to the target directory
+# Install the script
 echo "Installing extract.sh to $TARGET_PATH..."
-sudo mv "$TMP_SCRIPT" "$TARGET_PATH"
+if [ "$(id -u)" -eq 0 ]; then
+    mv "$TMP_SCRIPT" "$TARGET_PATH"
+    chmod +x "$TARGET_PATH"
+else
+    sudo mv "$TMP_SCRIPT" "$TARGET_PATH"
+    sudo chmod +x "$TARGET_PATH"
+fi
 
-# Set execute permissions
-sudo chmod +x "$TARGET_PATH"
-
-echo "Installation complete! Use 'extract' to extract files."
+echo "✅ Installation complete! You can now use the 'extract' command."

@@ -1,16 +1,20 @@
 #!/bin/bash
 
+# Create a temporary copy of extract.sh
 tmp_script=$(mktemp)
 cp 'extract.sh' "$tmp_script"
 
-# determine what syntax to use for sed
+# Cleanup temp file on exit
+trap 'rm -f "$tmp_script"' EXIT
+
+# Determine the appropriate sed -i syntax (BSD/macOS vs GNU)
 if sed --version 2>/dev/null | grep -q 'GNU'; then
     sed_inplace=(-i)
 else
     sed_inplace=(-i '')
 fi
 
-# list of tools and corresponding templates
+# Map required tools to their matching case patterns in extract.sh
 declare -A tools_patterns=(
     [bunzip2]='/\*\.bz2)/d'
     [unxz]='/\*\.xz)/d'
@@ -29,26 +33,25 @@ declare -A tools_patterns=(
     [ciso]='/\*\.cso)/d'
     [zlib-flate]='/\*\.zlib)/d'
     [hdiutil]='/\*\.dmg)/d'
+    [lz4]='/\*\.lz4)/d;/\*\.tar\.lz4)/d'
+    [pbzip2]='/\*\.tar\.br)/d'
 )
 
-# list of missing tools
+# Track missing tools and collect corresponding sed expressions
 missing_patterns=()
-
 for tool in "${!tools_patterns[@]}"; do
     if ! command -v "$tool" &>/dev/null; then
-        echo -e "\033[33mwarning: $tool not found\033[0m" 1>&2
+        echo -e "\033[33mwarning: $tool not found\033[0m" >&2
         missing_patterns+=("${tools_patterns[$tool]}")
     fi
 done
 
-# if there are missing tools, use sed with one command
+# Remove lines for missing tools from the extract function
 if [[ ${#missing_patterns[@]} -gt 0 ]]; then
     sed "${sed_inplace[@]}" -e "$(printf "%s;" "${missing_patterns[@]}")" "$tmp_script"
 fi
 
-# results
+# Final output: clean and ready-to-use extract function (without comments or blank lines)
 echo ''
 echo '# Github: https://github.com/xvoland/Extract/'
-sed -e '/^#/d' -e '/^$/d' "$tmp_script"
-
-rm "$tmp_script"
+sed -E '/^\s*#/d;/^\s*$/d' "$tmp_script"
