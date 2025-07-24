@@ -18,11 +18,10 @@
 # Github: https://github.com/xvoland/Extract/blob/master/extract.sh
 
 
-SAVEIFS=$IFS
-IFS=$' \t\n'
-
 function extract {
-    set -e  # abort execution on errors
+    SAVEIFS=$IFS
+    IFS=$' \t\n'
+    set +e  # abort execution on errors
 
     if [ $# -eq 0 ]; then
         # display usage if no parameters given
@@ -32,23 +31,48 @@ function extract {
         return 1
     fi
 
-    for n in "$@"; do
+while [[ $# -gt 0 ]]; do
+        n="$1"
+        shift
+
+        # === STDIN ===
+        if [[ "$n" == "-" ]]; then
+            if [ -z "$1" ]; then
+                echo "Error: must provide extension after '-' (stdin mode)"
+                return 1
+            fi
+            ext="$1"
+            shift
+
+            tmpfile=$(mktemp "/tmp/extract.stdin.XXXXXX.$ext")
+            cat > "$tmpfile"
+            echo "Saved stdin to temp file: $tmpfile"
+            extract "$tmpfile"
+            rm -f "$tmpfile"
+            continue
+        fi
+
+        # === FILE CHECK ===
         if [ ! -f "$n" ]; then
             echo "'$n' - file doesn't exist"
-            return 1
+            continue
         fi
 
         case "${n%,}" in
             *.cbt|*.tar.bz2|*.tar.gz|*.tar.xz|*.tbz2|*.tgz|*.txz|*.tar)
-                         tar --auto-compress -xvf "$n" ;;
+                tar --auto-compress -xvf "$n" ;;
             *.lzma)      unlzma "$n" ;;
+            *.lz4)       lz4 -d "$n" ;;
+            *.appimage)  ./"$n" --appimage-extract ;;
+            *.tar.lz4)   tar --use-compress-program=lz4 -xvf "$n" ;;
+            *.tar.br)    tar --use-compress-program=pbzip2 -xvf "$n" ;;
             *.bz2)       bunzip2 "$n" ;;
             *.cbr|*.rar) unrar x -ad "$n" ;;
             *.gz)        gunzip "$n" ;;
             *.cbz|*.epub|*.zip) unzip "$n" ;;
             *.z)         uncompress "$n" ;;
             *.7z|*.apk|*.arj|*.cab|*.cb7|*.chm|*.deb|*.iso|*.lzh|*.msi|*.pkg|*.rpm|*.udf|*.wim|*.xar|*.vhd)
-                         7z x "$n" ;;
+                7z x "$n" ;;
             *.xz)        unxz "$n" ;;
             *.exe)       cabextract "$n" ;;
             *.cpio)      cpio -id < "$n" ;;
@@ -58,16 +82,16 @@ function extract {
             *.cso)       ciso 0 "$n" "$n.iso" && extract "$n.iso" && rm -f "$n" ;;
             *.zlib)      zlib-flate -uncompress < "$n" > "${n%.*zlib}" && rm -f "$n" ;;
             *.dmg)
-                         mnt_dir=$(mktemp -d)
-                         hdiutil mount "$n" -mountpoint "$mnt_dir"
-                         echo "Mounted at: $mnt_dir" ;;
-            *.tar.zst)  tar -I zstd -xvf "$n" ;;
-            *.zst)      zstd -d "$n" ;;
+                mnt_dir=$(mktemp -d)
+                hdiutil mount "$n" -mountpoint "$mnt_dir"
+                echo "Mounted at: $mnt_dir" ;;
+            *.tar.zst)   tar -I zstd -xvf "$n" ;;
+            *.zst)       zstd -d "$n" ;;
             *)
                 echo "extract: '$n' - unknown archive method"
                 continue ;;
         esac
     done
-}
 
-IFS=$SAVEIFS
+    IFS=$SAVEIFS
+}
