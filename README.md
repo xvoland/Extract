@@ -116,7 +116,7 @@ To do this, use - as the file name, followed by the file extension (archive form
 
 ##### Examples:
 ```bash
-cat file.gz | extract - gz
+$ cat file.gz | extract - gz
 ```
 
 ```bash
@@ -124,7 +124,7 @@ $ curl -sL https://example.com/file.tar.gz | extract - tar.gz
 ```
 
 ```bash
-wget -qO- https://example.com/file.tar.xz | extract - tar.xz
+$ wget -qO- https://example.com/file.tar.xz | extract - tar.xz
 ```
 
 <br />
