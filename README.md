@@ -105,9 +105,26 @@ $ extract <archive_filename_1.extention> <archive_filename_2.extention> <archive
 
 <br />
 
-#### Stdin
+#### 📥 Using extract with STDIN
+
+The extract script supports extracting archives provided via standard input (e.g., from a pipeline).
+To do this, use - as the file name, followed by the file extension (archive format) so that extract knows how to handle the input.
+
+```
+<some_command> | extract - <extension>
+```
+
+##### Examples:
 ```bash
-$ curl -sL https://.../some_file.tar.gz | extract - tar.gz
+cat file.gz | extract - gz
+```
+
+```bash
+$ curl -sL https://example.com/file.tar.gz | extract - tar.gz
+```
+
+```bash
+wget -qO- https://example.com/file.tar.xz | extract - tar.xz
 ```
 
 <br />
