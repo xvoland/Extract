@@ -105,6 +105,7 @@ $ extract <archive_filename_1.extention> <archive_filename_2.extention> <archive
 
 <br />
 
+#### Stdin
 ```bash
 $ curl -sL https://.../some_file.tar.gz | extract - tar.gz
 ```
