@@ -1,16 +1,23 @@
 <p align="right"><img align="center" src="https://raw.githubusercontent.com/xvoland/xvoland/main/images/qr_extract.png" alt="DOTOCA Ltd." height="50" width="50" /></a>
 </p>
 
-Command/function `extract` in your console
-=================================
-Looking to extract a diverse range of file formats on your Mac or Linux? Look no further than the versatile `extract` command, designed to handle just about any file you throw at it! With built-in support for an extensive list of formats including .zip, .rar, .bz2, .gz, .zlib, .tar, .tbz2, .tgz, .Z, .7z, .xz, .exe, .tar.bz2, .tar.gz, .tar.xz, .arj, .cab, .chm, .deb, .dmg, .iso, .lzh, .msi, .rpm, .udf, .wim, .xar .cpio, .cbr, .cbz, .cb7, .cbt, .cba, .apk, .zpaq, .arc, .ciso, .zst, tar.zst and .vhd - you can rest assured that your extraction needs will be met with ease.
+# Command/function extract in your console
+Looking to extract a diverse range of file formats on your Mac or Linux?
+Look no further than the versatile `extract` command, designed to handle just about any file you throw at it! With built-in support for an extensive list of formats including: `.zip`, `.rar`, `.bz2`, `.gz`, `.zlib`, `.tar`, `.tbz2`, `.tgz`, `.Z`, `.7z`, `.xz`, `.exe`, `.tar.bz2`, `.tar.gz`, `.tar.xz`, `.arj`, `.cab`, `.chm`, `.deb`, `.dmg`, `.iso`, `.lzh`, `.msi`, `.rpm`, `.udf`, `.wim`, `.xar`, `.cpio`, `.cbr`, `.cbz`, `.cb7`, `.cbt`, `.cba`, `.apk`, `.zpaq`, `.arc`, `.ciso`, `.zst`, `.tar.zst`, `.vhd`, `.tar.lz4`, `.appimage`, `.lzma`, `.tar.br`, `.bz2`, `.cbr`, `.epub` – you can rest assured that your extraction needs will be met with ease.
 
-`extract` utilizes free unpackers to ensure support for even the most obscure and outdated file types. Give `extract` a try and streamline your file extraction process today!
+`extract` utilizes free unpackers to ensure support for even the most obscure and outdated file types. It also supports extracting archives from standard input (STDIN) – perfect for use in pipelines. To do this, simply use `-` as the file name followed by the archive extension, so that `extract` knows how to handle the input.
+
+For example:
+
+```bash
+cat archive.zip | extract -.zip
+```
+
+Give extract a try and streamline your file extraction process today!
 
 <br />
 
-Description
--------------------------
+# Description
 
 This is a Bash function called "extract" that is designed to extract a variety of file formats. It takes one or more arguments, each of which represents a file or path that needs to be extracted. If no arguments are provided, the function displays usage instructions.
 
@@ -24,8 +31,7 @@ Overall, this function provides a convenient way to extract a wide variety of ar
 
 
 <br /><br />
-How to install (macOS)
--------------------------
+# How to install (macOS)
 
 ### macOS / OSX / Mac OS X
 Add the highly convenient Copy & Paste functionality to your file management arsenal by simply including the appropriate code into your `~/.bash_profile` file. With this modification, you'll be able to breeze through your file manipulation tasks with ease and efficiency.
@@ -57,8 +63,8 @@ Copy&Paste function into file `~/.bashrc`
 
 
 <br /><br />
-How to Use the Installer
--------------
+
+# How to Use the Installer
 
 Copy the above code into a file, for example, install_extract.sh.
 
@@ -90,8 +96,7 @@ or
 
 
 <br /><br />
-How it use
-----------
+# How it use
 
 Using command `extract`, in a terminal
 
@@ -116,7 +121,7 @@ To do this, use - as the file name, followed by the file extension (archive form
 
 ##### Examples:
 ```bash
-$ cat file.gz | extract - gz
+cat file.gz | extract - gz
 ```
 
 ```bash
@@ -124,7 +129,7 @@ $ curl -sL https://example.com/file.tar.gz | extract - tar.gz
 ```
 
 ```bash
-$ wget -qO- https://example.com/file.tar.xz | extract - tar.xz
+wget -qO- https://example.com/file.tar.xz | extract - tar.xz
 ```
 
 <br />
