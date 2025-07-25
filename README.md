@@ -104,11 +104,11 @@ or
 Using command `extract`, in a terminal
 
 ```bash
-$ extract <archive_filename.extention>
+extract <archive_filename.extention>
 ```
 
 ```bash
-$ extract <archive_filename_1.extention> <archive_filename_2.extention> <archive_filename_3.extention> ...
+extract <archive_filename_1.extention> <archive_filename_2.extention> <archive_filename_3.extention> ...
 ```
 
 <br />
@@ -128,7 +128,7 @@ cat file.gz | extract - gz
 ```
 
 ```bash
-$ curl -sL https://example.com/file.tar.gz | extract - tar.gz
+curl -sL https://example.com/file.tar.gz | extract - tar.gz
 ```
 
 ```bash
