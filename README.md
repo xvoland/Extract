@@ -1,9 +1,12 @@
 <p align="right"><img align="center" src="https://raw.githubusercontent.com/xvoland/xvoland/main/images/qr_extract.png" alt="DOTOCA Ltd." height="50" width="50" /></a>
 </p>
 
+
 # Command/function extract in your console
+
 Looking to extract a diverse range of file formats on your Mac or Linux?
 Look no further than the versatile `extract` command, designed to handle just about any file you throw at it! With built-in support for an extensive list of formats including: `.zip`, `.rar`, `.bz2`, `.gz`, `.zlib`, `.tar`, `.tbz2`, `.tgz`, `.Z`, `.7z`, `.xz`, `.exe`, `.tar.bz2`, `.tar.gz`, `.tar.xz`, `.arj`, `.cab`, `.chm`, `.deb`, `.dmg`, `.iso`, `.lzh`, `.msi`, `.rpm`, `.udf`, `.wim`, `.xar`, `.cpio`, `.cbr`, `.cbz`, `.cb7`, `.cbt`, `.cba`, `.apk`, `.zpaq`, `.arc`, `.ciso`, `.zst`, `.tar.zst`, `.vhd`, `.tar.lz4`, `.appimage`, `.lzma`, `.tar.br`, `.bz2`, `.cbr`, `.epub` – you can rest assured that your extraction needs will be met with ease.
+
 
 `extract` utilizes free unpackers to ensure support for even the most obscure and outdated file types. It also supports extracting archives from standard input (STDIN) – perfect for use in pipelines. To do this, simply use "-" as the file name followed by the archive extension, so that `extract` knows how to handle the input.
 
