@@ -189,11 +189,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Is Binance Cheating Users With This Simple Game or its bug?](https://www.youtube.com/watch?v=yDC6xIRNHwc)
 - [Any photo into STUNNING art in 5 seconds #tutorial #oldphotofix #4kart](https://www.youtube.com/shorts/CCYGcLL1cq8)
 - [Any Photo Into Stunning Art | High-Resolution Ghibli &amp; Cinematic Style](https://www.youtube.com/watch?v=1T2eQ3pvSLk)
 - [2025 Fix Blurry Old Photos in 5 Seconds with AI &lpar;Free!&rpar; | Tutorial](https://www.youtube.com/watch?v=HdXzf8ucUzA)
 - [Photo Restoration: Free AI Tool Transform Your Old Photos - Instantly!](https://www.youtube.com/watch?v=-hV9mBcCvro)
-- [Stepan Andriyovych Bandera | AI Animation](https://www.youtube.com/shorts/dXi-ZVlqrZI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
