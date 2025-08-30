@@ -189,11 +189,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [💡 NASA ISS in 3D Anaglyph | Watch the International Space Station in 3D &lpar;Red-Cyan Glasses&rpar;](https://www.youtube.com/watch?v=WQ1CXDRmBp0)
 - [💰 UAH 10 Hryvnia Coin 2023 | Air Defense – Ukraine  | What is the current price?](https://www.youtube.com/watch?v=qozdkb5Yc-Y)
 - [💰 UAH 10 Hryvnia Coin 2023 – Joint Forces Command of Ukraine | 10 Hryvnia Collector’s Coin](https://www.youtube.com/watch?v=6Xwbtm35xoI)
 - [💰 UAH 10-Hryvnia Coin 2024 | Medical Forces of Ukraine | What is the current price?](https://www.youtube.com/watch?v=hzxMvMFsSys)
 - [💰 UAH 10 Hryvnia Coin 2023 | Support Forces of UkraineDesign &amp; Meaning](https://www.youtube.com/watch?v=5Qk8pAQXZSk)
-- [💰 UAH 10 Hryvnia Coin 2025 – National Guard of Ukraine | What is the current price?](https://www.youtube.com/watch?v=cgfaAY2ZNCI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
