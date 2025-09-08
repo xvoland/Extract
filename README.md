@@ -189,11 +189,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How To Use Nano Banana Inside Photoshop | Free script for Adobe Photoshop](https://www.youtube.com/watch?v=AKmHvOxEfbE)
 - [Best Way to Clean Earwax and Dirt from Headphones | Easy &amp; Effective Method](https://www.youtube.com/watch?v=ZCT0MrleRWA)
 - [💡 NASA ISS in 3D Anaglyph | Watch the International Space Station in 3D &lpar;Red-Cyan Glasses&rpar;](https://www.youtube.com/watch?v=WQ1CXDRmBp0)
 - [💰 UAH 10 Hryvnia Coin 2023 | Air Defense – Ukraine  | What is the current price?](https://www.youtube.com/watch?v=qozdkb5Yc-Y)
 - [💰 UAH 10 Hryvnia Coin 2023 – Joint Forces Command of Ukraine | 10 Hryvnia Collector’s Coin](https://www.youtube.com/watch?v=6Xwbtm35xoI)
-- [💰 UAH 10-Hryvnia Coin 2024 | Medical Forces of Ukraine | What is the current price?](https://www.youtube.com/watch?v=hzxMvMFsSys)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
