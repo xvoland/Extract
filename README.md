@@ -189,7 +189,7 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [AI NanoBanana in 2008 Photoshop CS4? Google Gemini on Windows XP](https://www.youtube.com/watch?v=Zl5N0CG1uw8)
+- [AI Nano Banana in 2008 Photoshop CS4? Google Gemini on Windows XP](https://www.youtube.com/watch?v=Zl5N0CG1uw8)
 - [Iron Wire Repair Tutorial | Step-by-Step Guide for Strong Fixes](https://www.youtube.com/watch?v=ypyjhJ4gYG8)
 - [Nano Banana Inside Photoshop In Action #photoshop #photoshoptutorial](https://www.youtube.com/shorts/--_NBrmJSgw)
 - [FREE To Use Nano Banana Inside Photoshop without external routers | Free script for Adobe Photoshop](https://www.youtube.com/watch?v=AKmHvOxEfbE)
