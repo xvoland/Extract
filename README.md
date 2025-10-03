@@ -189,11 +189,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Get Your Nano Banana API Key in 2 Minutes &lpar;Step-by-Step Guide&rpar;](https://www.youtube.com/watch?v=K2RsnXC9dCE)
 - [Plugin JSX Photoshop + AI Nano Banan Magic Inside | Change Color, Text Style Copy](https://www.youtube.com/shorts/azgP7njFPv4)
 - [Nano Banana JSX How To Widescreen 16:9, Image Resizing, Aspect Ratios &amp; Full Size and Fill Image](https://www.youtube.com/watch?v=KIw7NeDmY48)
 - [Photoshop + AI Nano Banan Magic Inside](https://www.youtube.com/shorts/Gu8ZggP2YHs)
 - [Photoshop + AI Nano Banana Multilingual &lpar;Review&rpar; — AI Script for Photoshop JSX](https://www.youtube.com/watch?v=-X14GiX0q7w)
-- [AI Nano Banana in 2008 Photoshop CS4? Google Gemini on Windows XP](https://www.youtube.com/watch?v=Zl5N0CG1uw8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
