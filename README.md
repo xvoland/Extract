@@ -189,7 +189,7 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Adobe Firefly vs Plugin Photoshop - Just Got Google Gemini Nano Banana Tips and Tricks](https://www.youtube.com/watch?v=PllTqTT69ec)
+- [Photoshop Firefly - JSX Plugin Photoshop Gemini Nano Banana Flash](https://www.youtube.com/watch?v=PllTqTT69ec)
 - [How to Get Your Nano Banana API Key in 2 Minutes &lpar;Step-by-Step Guide&rpar;](https://www.youtube.com/watch?v=K2RsnXC9dCE)
 - [Plugin JSX Photoshop + AI Nano Banan Magic Inside | Change Color, Text Style Copy](https://www.youtube.com/shorts/azgP7njFPv4)
 - [Nano Banana JSX How To Widescreen 16:9, Image Resizing, Aspect Ratios &amp; Full Size and Fill Image](https://www.youtube.com/watch?v=KIw7NeDmY48)
