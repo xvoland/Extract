@@ -189,11 +189,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Nana Banana Pro in Adobe Photoshop with Gemini 3  #tutorial](https://www.youtube.com/shorts/iNjdF8AZ10g)
 - [🍌 JSX Nana Banana Pro Gemini 3 in Photoshop With 4k Quality. Gemini 3 Pro vs Flash 2.5](https://www.youtube.com/watch?v=V68ljttNGBc)
 - [How to Import Custom Render Settings in DaVinci Resolve | Easy Step-by-Step Guide](https://www.youtube.com/watch?v=P9J1dKZmKcE)
 - [Bitcoin $BTC - Begin Of History, 2011 | The Day Bitcoin Crashed to One Cent Real-Time](https://www.youtube.com/watch?v=R-vEiFMYsOw)
 - [Photoshop Firefly - JSX Plugin Photoshop Gemini Nano Banana Flash](https://www.youtube.com/watch?v=PllTqTT69ec)
-- [How to Get Your Nano Banana API Key in 2 Minutes &lpar;Step-by-Step Guide&rpar;](https://www.youtube.com/watch?v=K2RsnXC9dCE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
