@@ -189,11 +189,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Прямая трансляция пользователя Vitalii Tereshchuk](https://www.youtube.com/watch?v=b5Z_ORIs0GQ)
 - [Create 3D Dioramas in Nano Banana Pro Photoshop AI  #gemini3pro #photoshop #tutorial #design](https://www.youtube.com/shorts/PapDyWzcobQ)
 - [Create Hyper-Realistic 3D Dioramas in Photoshop with Nano Banana Pro &lpar;Step-by-Step Tutorial&rpar;](https://www.youtube.com/watch?v=CA9uAnR46vM)
 - [Typography &lpar;Mosaic&rpar; Portrait with Nano Banana &lpar;Gemini 3&rpar; in Adobe Photoshop  #photoshop #tutorial](https://www.youtube.com/shorts/et2bmRH5UPY)
 - [🍌  How to Create Typography &lpar;Mosaic&rpar; Portrait with Nano Banana &lpar;Gemini 3&rpar; in Adobe Photoshop](https://www.youtube.com/watch?v=3jNAjMiQw3A)
+- [Nana Banana Pro in Adobe Photoshop with Gemini 3  #tutorial](https://www.youtube.com/shorts/iNjdF8AZ10g)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
