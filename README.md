@@ -189,11 +189,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [🎄 24/7 HDR Cozy Christmas Fireplace with Relaxing Music. Crackling Fire Sounds Vibes! ASMR Камин 4K](https://www.youtube.com/watch?v=fWkR6bJsrCI)
-- [🎄 24/7 HDR Cozy Christmas Fireplace with Relaxing Music. Crackling Fireplace Vibes! ASMR Камин 4K](https://www.youtube.com/watch?v=D59JZMBCy0I)
+- [🎄 24/7 Relaxing Christmas Music and Cozy Christmas Crackling Fireplace Vibes - Merry Christmas! ASMR](https://www.youtube.com/watch?v=ITVBwcY5IZQ)
 - [Create 3D Dioramas in Nano Banana Pro Photoshop AI  #gemini3pro #photoshop #tutorial #design](https://www.youtube.com/shorts/PapDyWzcobQ)
 - [Create Hyper-Realistic 3D Dioramas in Photoshop with Nano Banana Pro &lpar;Step-by-Step Tutorial&rpar;](https://www.youtube.com/watch?v=CA9uAnR46vM)
 - [Typography &lpar;Mosaic&rpar; Portrait with Nano Banana &lpar;Gemini 3&rpar; in Adobe Photoshop  #photoshop #tutorial](https://www.youtube.com/shorts/et2bmRH5UPY)
+- [🍌  How to Create Typography &lpar;Mosaic&rpar; Portrait with Nano Banana &lpar;Gemini 3&rpar; in Adobe Photoshop](https://www.youtube.com/watch?v=3jNAjMiQw3A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
