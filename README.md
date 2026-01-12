@@ -190,10 +190,10 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [STOP MAC SLEEP | Your Mac Keeps Falling Asleep? Use This Built-In Command](https://www.youtube.com/watch?v=lTa_Z4xNvSE)
-- [🔥 Cozy Fireplace Crackling 24/7 | ❄️ Snowy Cabin Views | Winter Ambience &lpar;No Music&rpar;](https://www.youtube.com/watch?v=EotX_Wrc6xE)
 - [Create 3D Dioramas in Nano Banana Pro Photoshop AI  #gemini3pro #photoshop #tutorial #design](https://www.youtube.com/shorts/PapDyWzcobQ)
 - [Create Hyper-Realistic 3D Dioramas in Photoshop with Nano Banana Pro &lpar;Step-by-Step Tutorial&rpar;](https://www.youtube.com/watch?v=CA9uAnR46vM)
 - [Typography &lpar;Mosaic&rpar; Portrait with Nano Banana &lpar;Gemini 3&rpar; in Adobe Photoshop  #photoshop #tutorial](https://www.youtube.com/shorts/et2bmRH5UPY)
+- [🍌  How to Create Typography &lpar;Mosaic&rpar; Portrait with Nano Banana &lpar;Gemini 3&rpar; in Adobe Photoshop](https://www.youtube.com/watch?v=3jNAjMiQw3A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
