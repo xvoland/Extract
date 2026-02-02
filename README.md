@@ -189,11 +189,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Save Money On the Repair Power Button of iPhone With This Simple Trick](https://www.youtube.com/watch?v=dN43NRu_ASU)
 - [Donald Trump Coin | This AI Nano Banana Created a Donald Trump Coin Prompt 💰 &lpar;Viral Image Method&rpar;](https://www.youtube.com/watch?v=5oFypSseiVM)
 - [🔥 LifeHack - Test a Fuse Using Your Phone #lifehacks](https://www.youtube.com/watch?v=DPF-gKLi-eY)
 - [STOP MAC SLEEP | Your Mac Keeps Falling Asleep? Use This Built-In Command](https://www.youtube.com/watch?v=lTa_Z4xNvSE)
 - [Create 3D Dioramas in Nano Banana Pro Photoshop AI  #gemini3pro #photoshop #tutorial #design](https://www.youtube.com/shorts/PapDyWzcobQ)
-- [Create Hyper-Realistic 3D Dioramas in Photoshop with Nano Banana Pro &lpar;Step-by-Step Tutorial&rpar;](https://www.youtube.com/watch?v=CA9uAnR46vM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
