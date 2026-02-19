@@ -189,11 +189,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🍌 Photoshop Plugin for Gemini 3 Pro Nano Banana #photoshop #photoshoptutorial](https://www.youtube.com/shorts/lIJcYdDSH5M)
 - [🍌 Insame Photoshop JSX Plugin Script - jsxNanaBananaPro Updated &lpar;Multiple References Gemini Pro&rpar;](https://www.youtube.com/watch?v=ikgUfVfus_s)
 - [3D Animation Coin - Donald J Trump - E PLURIBUS UNUM](https://www.youtube.com/shorts/x3gLBwX4Gng)
 - [Power Button - Save You Money | Double Tap to Lock Your Phone](https://www.youtube.com/shorts/-3ZQmv3_b5U)
 - [Save Money On the Repair Power Button of iPhone With This Simple Trick](https://www.youtube.com/watch?v=dN43NRu_ASU)
-- [Donald Trump Coin | This AI Nano Banana Created a Donald Trump Coin Prompt 💰 &lpar;Viral Image Method&rpar;](https://www.youtube.com/watch?v=5oFypSseiVM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
