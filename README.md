@@ -189,11 +189,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🚨 Your iPhone calculator may shock you… #apple #applebug  #ios #macos](https://www.youtube.com/shorts/HqEsy1bxxho)
 - [ The iPhone and macOS calculator are mind blowing](https://www.youtube.com/watch?v=oYfudyXcawI)
 - [99% of People Don’t Know This Shower Gel Hack](https://www.youtube.com/watch?v=aWfExS_jswA)
 - [JSX Plugin v0.6.9 Nano Banana 2 Pro Gemini 3.1 - jsxNanaBanana Plugin for Adobe Photoshop](https://www.youtube.com/watch?v=rher71lpwcw)
 - [​                                            𝓍𝑽𝕠𝑳𝑨𝔫𝔇](https://www.youtube.com/watch?v=HhTHIrUPJcc)
-- [⚡ Simple DIY Repair Old Bike Battery And Install Separate USB Charging Port For Any Device](https://www.youtube.com/watch?v=dNi7ayBp2nk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
