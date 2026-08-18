@@ -189,11 +189,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🔴 I make a Good knife with NO power tools, possible | ASMR #live #diy #knife](https://www.youtube.com/watch?v=cRrTgBRxSgQ)
 - [DIY Vax Cordless Vacuum Repair – It Runs for a Few Seconds and Shuts Off](https://www.youtube.com/watch?v=L1OjCoXUaoU)
 - [Voice Isolation Mode on iOS iPhone](https://www.youtube.com/shorts/9sZG3Wx_KeE)
 - [Free Up iPhone Storage in 3 Minutes!](https://www.youtube.com/watch?v=G9UZ3bXDWKw)
 - [Running Out of iPhone Storage? Try This  #iPhone #iPhoneStorage #iOSTips #AppleTips](https://www.youtube.com/shorts/JTHdoInEJ7I)
-- [Google Nano Banana Lite is HERE! ⚡ jsxNanaBanana v0.7.0 ⚡ Photoshop Plugin](https://www.youtube.com/watch?v=aCH-F9B5KR0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
