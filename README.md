@@ -191,7 +191,7 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 <!-- YOUTUBE:START -->
 - [🍌 Whats New Photoshop Plugin jsxNanaBanana v0.7.0 ? | #photoshop #tutorial](https://www.youtube.com/shorts/o-VuB9jczMI)
 - [🔴 DIY I make a Trump Knife WITHOUT using power tools, it&#39;s possible?  | ASMR #live #diy #knife](https://www.youtube.com/watch?v=gZCho6bGMbc)
-- [🔴  I make a Trump Knife WITHOUT using power tools, it&#39;s possible? | ASMR](https://www.youtube.com/watch?v=5m0Y7uwQtJU)
+- [🔴  How to make a Trump Knife WITHOUT using power tools, it&#39;s possible? | ASMR](https://www.youtube.com/watch?v=5m0Y7uwQtJU)
 - [DIY Vax Cordless Vacuum Repair – It Runs for a Few Seconds and Shuts Off](https://www.youtube.com/watch?v=L1OjCoXUaoU)
 - [Voice Isolation Mode on iOS iPhone](https://www.youtube.com/shorts/9sZG3Wx_KeE)
 <!-- YOUTUBE:END -->
