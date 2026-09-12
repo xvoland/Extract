@@ -189,11 +189,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [iPhone Duo - Special Orthodox Editional](https://www.youtube.com/watch?v=kfPH8XVLiLY)
+- [iPhone Duo - Special Edition #iphoneduo #apple #iphone](https://www.youtube.com/shorts/3QBO3kMxQws)
 - [Auto Volume Normalizer - FREE Google Chrome extension](https://www.youtube.com/shorts/qJwIki3qWlc)
 - [🔴  Auto Volume Normalizer - FREE Google Chrome Extension](https://www.youtube.com/watch?v=inoumB94HvQ)
 - [🔴  Zed Editor: How to Install Local Predictions Ollama or Another LLM](https://www.youtube.com/watch?v=84UrjoxWsjI)
-- [🍌 Whats New Photoshop Plugin jsxNanaBanana v0.7.0 ? | #photoshop #tutorial](https://www.youtube.com/shorts/o-VuB9jczMI)
-- [🔴  How to make a Trump Knife WITHOUT using power tools, it&#39;s possible? | ASMR](https://www.youtube.com/watch?v=5m0Y7uwQtJU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
