@@ -189,7 +189,7 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [🔴 Live: New Update Photoshop AI Plugin - jsxNanaBananaPro v1.0.1](https://www.youtube.com/watch?v=0InwpcqMW0s)
+- [🔴 Live: New Update Photoshop AI Plugin - jsxNanaBananaPro v1.0.1](https://www.youtube.com/watch?v=-hL7XqB5YB4)
 - [🍌  Update v1.0.1 Photoshop Plugin Just Changed How We Edit Images | jsx Nano Banana Pro - Gemini AI](https://www.youtube.com/watch?v=Ws9yWekUGZs)
 - [Fix Language Switching on macOS in Seconds](https://www.youtube.com/watch?v=ApiDujoZh3E)
 - [iPhone Duo - Special Orthodox Editional](https://www.youtube.com/watch?v=kfPH8XVLiLY)
